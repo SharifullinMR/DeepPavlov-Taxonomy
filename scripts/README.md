@@ -5,7 +5,7 @@
 ## Требования
 *   ОС: Linux (тестировалось на WSL Ubuntu)
 *   Менеджер пакетов: Conda (Miniconda/Anaconda)
-*   Окружение: `cami_benchmark` `motus_env` 
+*   Окружение: `cami_benchmark`, `motus_env` 
 
 ---
 
@@ -34,12 +34,12 @@ wget -c https://genome-idx.s3.amazonaws.com/centrifuge/p_compressed_2018_4_15.ta
 tar -xzf p_compressed_2018_4_15.tar.gz
 ```
 
-**mOTUs**(встроенная база)
+**mOTUs** (встроенная база)
 ```bash
 conda activate motus_env
 motus downloadDB
 ```
-**TaxonKit**(для конвертации в формат CAMI для Bracken и Centrifuge)
+**TaxonKit** (для конвертации в формат CAMI для Bracken и Centrifuge)
 
 ```bash
 mkdir -p ~/.taxonkit
@@ -96,6 +96,14 @@ motus profile \
 
 ***Для OPAL профили Bracken и Centrifuge необходимо привести к единому формату с помощью TaxonKit.***
 
+**TaxonKit**
+```bash
+conda install -c bioconda taxonkit -y
+mkdir -p ~/.taxonkit
+wget -c ftp://ftp.ncbi.nih.gov/pub/taxonomy/taxdump.tar.gz -O ~/.taxonkit/taxdump.tar.gz
+tar -xzf ~/.taxonkit/taxdump.tar.gz -C ~/.taxonkit
+```
+
 **Bracken:**
 ```bash
 tail -n +2 ~/cami_benchmark/results/sample_0_bracken.out | cut -f 2,7 > /tmp/bracken.tsv
@@ -114,7 +122,7 @@ taxonkit profile2cami \
   --sample-id "sample_0" \
   /tmp/centrifuge.tsv > ~/cami_benchmark/results/sample_0_centrifuge.cami
 ```
-## Шаг 5. Конвертация результатов в формат CAMI
+## Шаг 5. Оценка в OPAL
 
 ```bash
 pip3 install cami-opal
