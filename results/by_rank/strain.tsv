@@ -1,0 +1,4 @@
+tool	sample	Sum of abundances	Weighted UniFrac error	Unweighted UniFrac error	L1 norm error	Completeness	Purity	F1 score	True positives	False positives	False negatives	Taxon counts	Jaccard index	Shannon diversity	Shannon equitability	Bray-Curtis distance
+sample_0_bracken.cami	sample_0	na	0.11703466505952387	0.5678785946235076	na	0.0	0.0	na	0.0	0.0	311.0	na	0.0	na	na	na
+sample_0_centrifuge.cami	sample_0	na	0.14915610140032026	0.8531175210599431	na	0.0	0.0	na	0.0	0.0	311.0	na	0.0	na	na	na
+sample_0_motus.cami	sample_0	na	0.13347920674806776	0.858822497749389	na	0.0	0.0	na	0.0	0.0	311.0	na	0.0	na	na	na

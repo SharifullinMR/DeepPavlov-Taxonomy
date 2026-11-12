@@ -1,0 +1,1017 @@
+@SampleID:sample_0
+@Version:0.10.0
+@Ranks:superkingdom|phylum|class|order|family|genus|species|strain
+@TaxonomyID:
+@@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE
+976	phylum	976	Bacteroidota	50.441999999999950
+1239	phylum	1239	Bacillota	41.184000000000097
+1224	phylum	1224	Pseudomonadota	2.932999999999998
+2731618	phylum	2731618	Uroviricota	2.335999999999998
+7711	phylum	7711	Chordata	2.236000000000000
+201174	phylum	201174	Actinomycetota	0.404999999999999
+200940	phylum	200940	Thermodesulfobacteriota	0.353000000000000
+203691	phylum	203691	Spirochaetota	0.016000000000000
+2732408	phylum	2732408	Pisuviricota	0.012000000000000
+29547	phylum	29547	Campylobacterota	0.006000000000000
+2732416	phylum	2732416	Cressdnaviricota	0.003000000000000
+2732415	phylum	2732415	Cossaviricota	0.003000000000000
+2732410	phylum	2732410	Hofneiviricota	0.003000000000000
+2732407	phylum	2732407	Lenarviricota	0.002000000000000
+32066	phylum	32066	Fusobacteriota	0.002000000000000
+1117	phylum	1117	Cyanobacteriota	0.001000000000000
+544448	phylum	544448	Mycoplasmatota	0.001000000000000
+67812	phylum	67812	Candidatus Omnitrophota	0.001000000000000
+2732412	phylum	2732412	Phixviricota	0.001000000000000
+28890	phylum	28890	Methanobacteriota	0.001000000000000
+200643	class	976|200643	Bacteroidota|Bacteroidia	50.432999999999986
+186801	class	1239|186801	Bacillota|Clostridia	31.134000000000050
+91061	class	1239|91061	Bacillota|Bacilli	5.530000000000011
+909932	class	1239|909932	Bacillota|Negativicutes	3.484000000000001
+1236	class	1224|1236	Pseudomonadota|Gammaproteobacteria	2.896999999999998
+2731619	class	2731618|2731619	Uroviricota|Caudoviricetes	2.335999999999998
+40674	class	7711|40674	Chordata|Mammalia	2.236000000000000
+526524	class	1239|526524	Bacillota|Erysipelotrichia	1.034000000000000
+3031449	class	200940|3031449	Thermodesulfobacteriota|Desulfovibrionia	0.353000000000000
+1760	class	201174|1760	Actinomycetota|Actinomycetes	0.314000000000000
+84998	class	201174|84998	Actinomycetota|Coriobacteriia	0.091000000000000
+28211	class	1224|28211	Pseudomonadota|Alphaproteobacteria	0.019000000000000
+28216	class	1224|28216	Pseudomonadota|Betaproteobacteria	0.017000000000000
+203692	class	203691|203692	Spirochaetota|Spirochaetia	0.016000000000000
+117743	class	976|117743	Bacteroidota|Flavobacteriia	0.007000000000000
+2732506	class	2732408|2732506	Pisuviricota|Pisoniviricetes	0.006000000000000
+3031852	class	29547|3031852	Campylobacterota|Epsilonproteobacteria	0.006000000000000
+2732507	class	2732408|2732507	Pisuviricota|Stelpaviricetes	0.006000000000000
+2732423	class	2732416|2732423	Cressdnaviricota|Arfiviricetes	0.003000000000000
+2732411	class	2732410|2732411	Hofneiviricota|Faserviricetes	0.003000000000000
+1737404	class	1239|1737404	Bacillota|Tissierellia	0.002000000000000
+2842243	class	2732407|2842243	Lenarviricota|Leviviricetes	0.002000000000000
+2732422	class	2732415|2732422	Cossaviricota|Quintoviricetes	0.002000000000000
+203490	class	32066|203490	Fusobacteriota|Fusobacteriia	0.002000000000000
+10841	class	2732412|10841	Phixviricota|Microviricetes	0.001000000000000
+2732421	class	2732415|2732421	Cossaviricota|Papovaviricetes	0.001000000000000
+768503	class	976|768503	Bacteroidota|Cytophagia	0.001000000000000
+1853228	class	976|1853228	Bacteroidota|Chitinophagia	0.001000000000000
+183963	class	28890|183963	Methanobacteriota|Halobacteria	0.001000000000000
+31969	class	544448|31969	Mycoplasmatota|Mollicutes	0.001000000000000
+3028117	class	1117|3028117	Cyanobacteriota|Cyanophyceae	0.001000000000000
+171549	order	976|200643|171549	Bacteroidota|Bacteroidia|Bacteroidales	50.432999999999986
+186802	order	1239|186801|186802	Bacillota|Clostridia|Eubacteriales	16.442000000000007
+3085636	order	1239|186801|3085636	Bacillota|Clostridia|Lachnospirales	10.666000000000007
+186826	order	1239|91061|186826	Bacillota|Bacilli|Lactobacillales	5.512000000000007
+3082720	order	1239|186801|3082720	Bacillota|Clostridia|Peptostreptococcales	3.838000000000003
+1843488	order	1239|909932|1843488	Bacillota|Negativicutes|Acidaminococcales	3.351000000000000
+91347	order	1224|1236|91347	Pseudomonadota|Gammaproteobacteria|Enterobacterales	2.876999999999998
+9443	order	7711|40674|9443	Chordata|Mammalia|Primates	2.236000000000000
+526525	order	1239|526524|526525	Bacillota|Erysipelotrichia|Erysipelotrichales	1.034000000000000
+213115	order	200940|3031449|213115	Thermodesulfobacteriota|Desulfovibrionia|Desulfovibrionales	0.353000000000000
+85004	order	201174|1760|85004	Actinomycetota|Actinomycetes|Bifidobacteriales	0.305000000000000
+3420545	order	2731618|2731619|3420545	Uroviricota|Caudoviricetes|Pantevenvirales	0.263000000000000
+3082768	order	1239|186801|3082768	Bacillota|Clostridia|Christensenellales	0.173000000000000
+1843489	order	1239|909932|1843489	Bacillota|Negativicutes|Veillonellales	0.130000000000000
+84999	order	201174|84998|84999	Actinomycetota|Coriobacteriia|Coriobacteriales	0.055000000000000
+3420540	order	2731618|2731619|3420540	Uroviricota|Caudoviricetes|Autographivirales	0.040000000000000
+1643822	order	201174|84998|1643822	Actinomycetota|Coriobacteriia|Eggerthellales	0.036000000000000
+1978007	order	2731618|2731619|1978007	Uroviricota|Caudoviricetes|Crassvirales	0.020000000000000
+1385	order	1239|91061|1385	Bacillota|Bacilli|Caryophanales	0.018000000000000
+3120395	order	1224|28211|3120395	Pseudomonadota|Alphaproteobacteria|Acetobacterales	0.017000000000000
+80840	order	1224|28216|80840	Pseudomonadota|Betaproteobacteria|Burkholderiales	0.017000000000000
+3120456	order	203691|203692|3120456	Spirochaetota|Spirochaetia|Treponematales	0.015000000000000
+3085656	order	1239|186801|3085656	Bacillota|Clostridia|Monoglobales	0.014000000000000
+135623	order	1224|1236|135623	Pseudomonadota|Gammaproteobacteria|Vibrionales	0.010000000000000
+200644	order	976|117743|200644	Bacteroidota|Flavobacteriia|Flavobacteriales	0.007000000000000
+464095	order	2732408|2732506|464095	Pisuviricota|Pisoniviricetes|Picornavirales	0.006000000000000
+213849	order	29547|3031852|213849	Campylobacterota|Epsilonproteobacteria|Campylobacterales	0.006000000000000
+2732551	order	2732408|2732507|2732551	Pisuviricota|Stelpaviricetes|Stellavirales	0.006000000000000
+2037	order	201174|1760|2037	Actinomycetota|Actinomycetes|Actinomycetales	0.005000000000000
+72274	order	1224|1236|72274	Pseudomonadota|Gammaproteobacteria|Pseudomonadales	0.004000000000000
+909929	order	1239|909932|909929	Bacillota|Negativicutes|Selenomonadales	0.003000000000000
+2732094	order	2732410|2732411|2732094	Hofneiviricota|Faserviricetes|Tubulavirales	0.003000000000000
+135624	order	1224|1236|135624	Pseudomonadota|Gammaproteobacteria|Aeromonadales	0.002000000000000
+2732534	order	2732415|2732422|2732534	Cossaviricota|Quintoviricetes|Piccovirales	0.002000000000000
+356	order	1224|28211|356	Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales	0.002000000000000
+2842247	order	2732407|2842243|2842247	Lenarviricota|Leviviricetes|Norzivirales	0.002000000000000
+203491	order	32066|203490|203491	Fusobacteriota|Fusobacteriia|Fusobacteriales	0.002000000000000
+1737405	order	1239|1737404|1737405	Bacillota|Tissierellia|Tissierellales	0.002000000000000
+2732536	order	2732416|2732423|2732536	Cressdnaviricota|Arfiviricetes|Cirlivirales	0.002000000000000
+85009	order	201174|1760|85009	Actinomycetota|Actinomycetes|Propionibacteriales	0.002000000000000
+2887326	order	1224|1236|2887326	Pseudomonadota|Gammaproteobacteria|Moraxellales	0.001000000000000
+135619	order	1224|1236|135619	Pseudomonadota|Gammaproteobacteria|Oceanospirillales	0.001000000000000
+1161	order	1117|3028117|1161	Cyanobacteriota|Cyanophyceae|Nostocales	0.001000000000000
+186329	order	544448|31969|186329	Mycoplasmatota|Mollicutes|Acholeplasmatales	0.001000000000000
+1910950	order	2732412|10841|1910950	Phixviricota|Microviricetes|Bullavirales	0.001000000000000
+1853229	order	976|1853228|1853229	Bacteroidota|Chitinophagia|Chitinophagales	0.001000000000000
+135622	order	1224|1236|135622	Pseudomonadota|Gammaproteobacteria|Alteromonadales	0.001000000000000
+136	order	203691|203692|136	Spirochaetota|Spirochaetia|Spirochaetales	0.001000000000000
+85007	order	201174|1760|85007	Actinomycetota|Actinomycetes|Mycobacteriales	0.001000000000000
+2732537	order	2732416|2732423|2732537	Cressdnaviricota|Arfiviricetes|Cremevirales	0.001000000000000
+2235	order	28890|183963|2235	Methanobacteriota|Halobacteria|Halobacteriales	0.001000000000000
+85011	order	201174|1760|85011	Actinomycetota|Actinomycetes|Kitasatosporales	0.001000000000000
+768507	order	976|768503|768507	Bacteroidota|Cytophagia|Cytophagales	0.001000000000000
+135614	order	1224|1236|135614	Pseudomonadota|Gammaproteobacteria|Lysobacterales	0.001000000000000
+3120394	order	1239|186801|3120394	Bacillota|Clostridia|Acetivibrionales	0.001000000000000
+2732532	order	2732415|2732421|2732532	Cossaviricota|Papovaviricetes|Sepolyvirales	0.001000000000000
+171552	family	976|200643|171549|171552	Bacteroidota|Bacteroidia|Bacteroidales|Prevotellaceae	35.370000000000005
+216572	family	1239|186801|186802|216572	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae	16.027999999999995
+815	family	976|200643|171549|815	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae	14.048999999999998
+186803	family	1239|186801|3085636|186803	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae	10.666000000000007
+33958	family	1239|91061|186826|33958	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae	3.835000000000003
+186804	family	1239|186801|3082720|186804	Bacillota|Clostridia|Peptostreptococcales|Peptostreptococcaceae	3.829000000000002
+909930	family	1239|909932|1843488|909930	Bacillota|Negativicutes|Acidaminococcales|Acidaminococcaceae	3.351000000000000
+543	family	1224|1236|91347|543	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae	2.874999999999998
+9604	family	7711|40674|9443|9604	Chordata|Mammalia|Primates|Hominidae	2.236000000000000
+1300	family	1239|91061|186826|1300	Bacillota|Bacilli|Lactobacillales|Streptococcaceae	1.057999999999999
+2810280	family	1239|526524|526525|2810280	Bacillota|Erysipelotrichia|Erysipelotrichales|Coprobacillaceae	0.924000000000000
+2005525	family	976|200643|171549|2005525	Bacteroidota|Bacteroidia|Bacteroidales|Tannerellaceae	0.769000000000000
+81852	family	1239|91061|186826|81852	Bacillota|Bacilli|Lactobacillales|Enterococcaceae	0.619000000000000
+194924	family	200940|3031449|213115|194924	Thermodesulfobacteriota|Desulfovibrionia|Desulfovibrionales|Desulfovibrionaceae	0.353000000000000
+31953	family	201174|1760|85004|31953	Actinomycetota|Actinomycetes|Bifidobacteriales|Bifidobacteriaceae	0.305000000000000
+3152113	family	2731618|2731619|3152113	Uroviricota|Caudoviricetes|Chimalliviridae	0.273000000000000
+2946170	family	2731618|2731619|3420545|2946170	Uroviricota|Caudoviricetes|Pantevenvirales|Straboviridae	0.263000000000000
+171550	family	976|200643|171549|171550	Bacteroidota|Bacteroidia|Bacteroidales|Rikenellaceae	0.233000000000000
+31979	family	1239|186801|186802|31979	Bacillota|Clostridia|Eubacteriales|Clostridiaceae	0.211000000000000
+3680502	family	2731618|2731619|3680502	Uroviricota|Caudoviricetes|Mtkvariviridae	0.204000000000000
+2731690	family	2731618|2731619|2731690	Uroviricota|Caudoviricetes|Demerecviridae	0.193000000000000
+186806	family	1239|186801|186802|186806	Bacillota|Clostridia|Eubacteriales|Eubacteriaceae	0.179000000000000
+990719	family	1239|186801|3082768|990719	Bacillota|Clostridia|Christensenellales|Christensenellaceae	0.173000000000000
+31977	family	1239|909932|1843489|31977	Bacillota|Negativicutes|Veillonellales|Veillonellaceae	0.130000000000000
+3424631	family	2731618|2731619|3424631	Uroviricota|Caudoviricetes|Andersonviridae	0.119000000000000
+128827	family	1239|526524|526525|128827	Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae	0.070000000000000
+3424670	family	2731618|2731619|3424670	Uroviricota|Caudoviricetes|Sarkviridae	0.054000000000000
+2731691	family	2731618|2731619|2731691	Uroviricota|Caudoviricetes|Drexlerviridae	0.050000000000000
+84107	family	201174|84998|84999|84107	Actinomycetota|Coriobacteriia|Coriobacteriales|Coriobacteriaceae	0.043000000000000
+2810281	family	1239|526524|526525|2810281	Bacillota|Erysipelotrichia|Erysipelotrichales|Turicibacteraceae	0.040000000000000
+3044459	family	2731618|2731619|3044459	Uroviricota|Caudoviricetes|Arenbergviridae	0.038000000000000
+2946167	family	2731618|2731619|2946167	Uroviricota|Caudoviricetes|Peduoviridae	0.038000000000000
+1643826	family	201174|84998|1643822|1643826	Actinomycetota|Coriobacteriia|Eggerthellales|Eggerthellaceae	0.036000000000000
+2842329	family	2731618|2731619|2842329	Uroviricota|Caudoviricetes|Schitoviridae	0.034000000000000
+3424637	family	2731618|2731619|3420540|3424637	Uroviricota|Caudoviricetes|Autographivirales|Autotranscriptaviridae	0.026000000000000
+3424659	family	2731618|2731619|3424659	Uroviricota|Caudoviricetes|Lindbergviridae	0.024000000000000
+3700705	family	2731618|2731619|3700705	Uroviricota|Caudoviricetes|Zimmerviridae	0.021000000000000
+433	family	1224|28211|3120395|433	Pseudomonadota|Alphaproteobacteria|Acetobacterales|Acetobacteraceae	0.017000000000000
+2845253	family	203691|203692|3120456|2845253	Spirochaetota|Spirochaetia|Treponematales|Treponemataceae	0.015000000000000
+3424636	family	2731618|2731619|3420540|3424636	Uroviricota|Caudoviricetes|Autographivirales|Autosignataviridae	0.014000000000000
+3085657	family	1239|186801|3085656|3085657	Bacillota|Clostridia|Monoglobales|Monoglobaceae	0.014000000000000
+1643824	family	201174|84998|84999|1643824	Actinomycetota|Coriobacteriia|Coriobacteriales|Atopobiaceae	0.011000000000000
+641	family	1224|1236|135623|641	Pseudomonadota|Gammaproteobacteria|Vibrionales|Vibrionaceae	0.010000000000000
+995019	family	1224|28216|80840|995019	Pseudomonadota|Betaproteobacteria|Burkholderiales|Sutterellaceae	0.008000000000000
+186817	family	1239|91061|1385|186817	Bacillota|Bacilli|Caryophanales|Bacillaceae	0.008000000000000
+2942965	family	2731618|2731619|1978007|2942965	Uroviricota|Caudoviricetes|Crassvirales|Steigviridae	0.007000000000000
+2005519	family	976|200643|171549|2005519	Bacteroidota|Bacteroidia|Bacteroidales|Barnesiellaceae	0.007000000000000
+2942963	family	2731618|2731619|1978007|2942963	Uroviricota|Caudoviricetes|Crassvirales|Crevaviridae	0.007000000000000
+2942966	family	2731618|2731619|1978007|2942966	Uroviricota|Caudoviricetes|Crassvirales|Suoliviridae	0.006000000000000
+80864	family	1224|28216|80840|80864	Pseudomonadota|Betaproteobacteria|Burkholderiales|Comamonadaceae	0.006000000000000
+72294	family	29547|3031852|213849|72294	Campylobacterota|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae	0.006000000000000
+39733	family	2732408|2732507|2732551|39733	Pisuviricota|Stelpaviricetes|Stellavirales|Astroviridae	0.006000000000000
+1853231	family	976|200643|171549|1853231	Bacteroidota|Bacteroidia|Bacteroidales|Odoribacteraceae	0.005000000000000
+543314	family	1239|186801|3082720|543314	Bacillota|Clostridia|Peptostreptococcales|Anaerovoracaceae	0.005000000000000
+2049	family	201174|1760|2037|2049	Actinomycetota|Actinomycetes|Actinomycetales|Actinomycetaceae	0.005000000000000
+186822	family	1239|91061|1385|186822	Bacillota|Bacilli|Caryophanales|Paenibacillaceae	0.004000000000000
+135621	family	1224|1236|72274|135621	Pseudomonadota|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae	0.004000000000000
+12058	family	2732408|2732506|464095|12058	Pisuviricota|Pisoniviricetes|Picornavirales|Picornaviridae	0.004000000000000
+49546	family	976|117743|200644|49546	Bacteroidota|Flavobacteriia|Flavobacteriales|Flavobacteriaceae	0.004000000000000
+2762318	family	976|117743|200644|2762318	Bacteroidota|Flavobacteriia|Flavobacteriales|Weeksellaceae	0.003000000000000
+10860	family	2732410|2732411|2732094|10860	Hofneiviricota|Faserviricetes|Tubulavirales|Inoviridae	0.003000000000000
+1843491	family	1239|909932|909929|1843491	Bacillota|Negativicutes|Selenomonadales|Selenomonadaceae	0.003000000000000
+3085642	family	1239|186801|186802|3085642	Bacillota|Clostridia|Eubacteriales|Butyricicoccaceae	0.003000000000000
+119060	family	1224|28216|80840|119060	Pseudomonadota|Betaproteobacteria|Burkholderiales|Burkholderiaceae	0.003000000000000
+3118656	family	1239|186801|3082720|3118656	Bacillota|Clostridia|Peptostreptococcales|Natronincolaceae	0.002000000000000
+2842319	family	2732407|2842243|2842247|2842319	Lenarviricota|Leviviricetes|Norzivirales|Fiersviridae	0.002000000000000
+539738	family	1239|91061|1385|539738	Bacillota|Bacilli|Caryophanales|Gemellaceae	0.002000000000000
+31957	family	201174|1760|85009|31957	Actinomycetota|Actinomycetes|Propionibacteriales|Propionibacteriaceae	0.002000000000000
+10780	family	2732415|2732422|2732534|10780	Cossaviricota|Quintoviricetes|Piccovirales|Parvoviridae	0.002000000000000
+84642	family	1224|1236|135624|84642	Pseudomonadota|Gammaproteobacteria|Aeromonadales|Aeromonadaceae	0.002000000000000
+90964	family	1239|91061|1385|90964	Bacillota|Bacilli|Caryophanales|Staphylococcaceae	0.002000000000000
+39724	family	2732416|2732423|2732536|39724	Cressdnaviricota|Arfiviricetes|Cirlivirales|Circoviridae	0.002000000000000
+203492	family	32066|203490|203491|203492	Fusobacteriota|Fusobacteriia|Fusobacteriales|Fusobacteriaceae	0.002000000000000
+3047432	family	1239|186801|186802|3047432	Bacillota|Clostridia|Eubacteriales|Maliibacteriaceae	0.001000000000000
+468	family	1224|1236|2887326|468	Pseudomonadota|Gammaproteobacteria|Moraxellales|Moraxellaceae	0.001000000000000
+82115	family	1224|28211|356|82115	Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Rhizobiaceae	0.001000000000000
+2169574	family	2732416|2732423|2732537|2169574	Cressdnaviricota|Arfiviricetes|Cremevirales|Smacoviridae	0.001000000000000
+1643685	family	203691|203692|136|1643685	Spirochaetota|Spirochaetia|Spirochaetales|Borreliaceae	0.001000000000000
+28256	family	1224|1236|135619|28256	Pseudomonadota|Gammaproteobacteria|Oceanospirillales|Halomonadaceae	0.001000000000000
+85025	family	201174|1760|85007|85025	Actinomycetota|Actinomycetes|Mycobacteriales|Nocardiaceae	0.001000000000000
+2146	family	544448|31969|186329|2146	Mycoplasmatota|Mollicutes|Acholeplasmatales|Acholeplasmataceae	0.001000000000000
+1903411	family	1224|1236|91347|1903411	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Yersiniaceae	0.001000000000000
+89373	family	976|768503|768507|89373	Bacteroidota|Cytophagia|Cytophagales|Cytophagaceae	0.001000000000000
+3402413	family	28890|183963|2235|3402413	Methanobacteriota|Halobacteria|Halobacteriales|Natronomonadaceae	0.001000000000000
+119045	family	1224|28211|356|119045	Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Methylobacteriaceae	0.001000000000000
+3118657	family	1239|186801|3082720|3118657	Bacillota|Clostridia|Peptostreptococcales|Thermotaleaceae	0.001000000000000
+3118655	family	1239|186801|3082720|3118655	Bacillota|Clostridia|Peptostreptococcales|Filifactoraceae	0.001000000000000
+3120654	family	1239|186801|3120394|3120654	Bacillota|Clostridia|Acetivibrionales|Acetivibrionaceae	0.001000000000000
+151341	family	2732415|2732421|2732532|151341	Cossaviricota|Papovaviricetes|Sepolyvirales|Polyomaviridae	0.001000000000000
+267890	family	1224|1236|135622|267890	Pseudomonadota|Gammaproteobacteria|Alteromonadales|Shewanellaceae	0.001000000000000
+2062	family	201174|1760|85011|2062	Actinomycetota|Actinomycetes|Kitasatosporales|Streptomycetaceae	0.001000000000000
+3082771	family	1239|186801|186802|3082771	Bacillota|Clostridia|Eubacteriales|Acutalibacteraceae	0.001000000000000
+2992719	family	1239|1737404|1737405|2992719	Bacillota|Tissierellia|Tissierellales|Tepidimicrobiaceae	0.001000000000000
+2661849	family	1117|3028117|1161|2661849	Cyanobacteriota|Cyanophyceae|Nostocales|Calotrichaceae	0.001000000000000
+1570339	family	1239|1737404|1737405|1570339	Bacillota|Tissierellia|Tissierellales|Peptoniphilaceae	0.001000000000000
+1903409	family	1224|1236|91347|1903409	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Erwiniaceae	0.001000000000000
+1491775	family	1239|186801|186802|1491775	Bacillota|Clostridia|Eubacteriales|Proteinivoracaceae	0.001000000000000
+3153719	family	201174|84998|84999|3153719	Actinomycetota|Coriobacteriia|Coriobacteriales|Kribbibacteriaceae	0.001000000000000
+3701015	family	2732412|10841|1910950|3701015	Phixviricota|Microviricetes|Bullavirales|Eubullaviridae	0.001000000000000
+186818	family	1239|91061|1385|186818	Bacillota|Bacilli|Caryophanales|Caryophanaceae	0.001000000000000
+2731689	family	2731618|2731619|2731689	Uroviricota|Caudoviricetes|Chaseviridae	0.001000000000000
+563835	family	976|1853228|1853229|563835	Bacteroidota|Chitinophagia|Chitinophagales|Chitinophagaceae	0.001000000000000
+32033	family	1224|1236|135614|32033	Pseudomonadota|Gammaproteobacteria|Lysobacterales|Lysobacteraceae	0.001000000000000
+577309	genus	976|200643|171549|171552|577309	Bacteroidota|Bacteroidia|Bacteroidales|Prevotellaceae|Paraprevotella	35.365000000000002
+216851	genus	1239|186801|186802|216572|216851	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Faecalibacterium	15.317999999999998
+816	genus	976|200643|171549|815|816	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides	13.836999999999996
+572511	genus	1239|186801|3085636|186803|572511	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Blautia	4.864000000000002
+33024	genus	1239|909932|1843488|909930|33024	Bacillota|Negativicutes|Acidaminococcales|Acidaminococcaceae|Phascolarctobacterium	3.348000000000000
+1578	genus	1239|91061|186826|33958|1578	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus	3.328000000000002
+1870884	genus	1239|186801|3082720|186804|1870884	Bacillota|Clostridia|Peptostreptococcales|Peptostreptococcaceae|Clostridioides	3.300000000000000
+9605	genus	7711|40674|9443|9604|9605	Chordata|Mammalia|Primates|Hominidae|Homo	2.236000000000000
+1506553	genus	1239|186801|3085636|186803|1506553	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Lachnoclostridium	1.770000000000000
+590	genus	1224|1236|91347|543|590	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Salmonella	1.727000000000000
+189330	genus	1239|186801|3085636|186803|189330	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Dorea	1.507000000000000
+1301	genus	1239|91061|186826|1300|1301	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus	1.051999999999999
+841	genus	1239|186801|3085636|186803|841	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Roseburia	0.942000000000000
+207244	genus	1239|186801|3085636|186803|207244	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerostipes	0.919000000000000
+135858	genus	1239|526524|526525|2810280|135858	Bacillota|Erysipelotrichia|Erysipelotrichales|Coprobacillaceae|Catenibacterium	0.781000000000000
+375288	genus	976|200643|171549|2005525|375288	Bacteroidota|Bacteroidia|Bacteroidales|Tannerellaceae|Parabacteroides	0.769000000000000
+561	genus	1224|1236|91347|543|561	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Escherichia	0.695000000000000
+2591381	genus	1239|186801|186802|216572|2591381	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Dysosmobacter	0.629000000000000
+1350	genus	1239|91061|186826|81852|1350	Bacillota|Bacilli|Lactobacillales|Enterococcaceae|Enterococcus	0.619000000000000
+1501226	genus	1239|186801|3082720|186804|1501226	Bacillota|Clostridia|Peptostreptococcales|Peptostreptococcaceae|Romboutsia	0.519000000000000
+46255	genus	1239|91061|186826|33958|46255	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Weissella	0.465000000000000
+544	genus	1224|1236|91347|543|544	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter	0.427000000000000
+872	genus	200940|3031449|213115|194924|872	Thermodesulfobacteriota|Desulfovibrionia|Desulfovibrionales|Desulfovibrionaceae|Desulfovibrio	0.353000000000000
+1678	genus	201174|1760|85004|31953|1678	Actinomycetota|Actinomycetes|Bifidobacteriales|Bifidobacteriaceae|Bifidobacterium	0.305000000000000
+2316020	genus	1239|186801|3085636|186803|2316020	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Mediterraneibacter	0.281000000000000
+3044787	genus	2731618|2731619|3152113|3044787	Uroviricota|Caudoviricetes|Chimalliviridae|Pawinskivirus	0.271000000000000
+239759	genus	976|200643|171549|171550|239759	Bacteroidota|Bacteroidia|Bacteroidales|Rikenellaceae|Alistipes	0.233000000000000
+2560244	genus	2731618|2731619|3420545|2946170|2560244	Uroviricota|Caudoviricetes|Pantevenvirales|Straboviridae|Tulanevirus	0.216000000000000
+909656	genus	976|200643|171549|815|909656	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Phocaeicola	0.212000000000000
+1485	genus	1239|186801|186802|31979|1485	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium	0.206000000000000
+1623305	genus	2731618|2731619|1623305	Uroviricota|Caudoviricetes|Skunavirus	0.179000000000000
+1730	genus	1239|186801|186802|186806|1730	Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Eubacterium	0.179000000000000
+990721	genus	1239|186801|3082768|990719|990721	Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella	0.173000000000000
+2560086	genus	2731618|2731619|2560086	Uroviricota|Caudoviricetes|Alcyoneusvirus	0.167000000000000
+3044836	genus	2731618|2731619|3680502|3044836	Uroviricota|Caudoviricetes|Mtkvariviridae|Suseptimavirus	0.152000000000000
+2732017	genus	2731618|2731619|2731690|2732017	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus	0.146000000000000
+1623289	genus	2731618|2731619|1623289	Uroviricota|Caudoviricetes|Dhillonvirus	0.146000000000000
+3025755	genus	1239|526524|526525|2810280|3025755	Bacillota|Erysipelotrichia|Erysipelotrichales|Coprobacillaceae|Thomasclavelia	0.139000000000000
+1914852	genus	2731618|2731619|1914852	Uroviricota|Caudoviricetes|Vequintavirus	0.133000000000000
+29465	genus	1239|909932|1843489|31977|29465	Bacillota|Negativicutes|Veillonellales|Veillonellaceae|Veillonella	0.129000000000000
+1985303	genus	2731618|2731619|3424631|1985303	Uroviricota|Caudoviricetes|Andersonviridae|Mooglevirus	0.119000000000000
+2719313	genus	1239|186801|3085636|186803|2719313	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Enterocloster	0.103000000000000
+2733097	genus	2731618|2731619|2733097	Uroviricota|Caudoviricetes|Brigitvirus	0.088000000000000
+2948775	genus	2731618|2731619|2948775	Uroviricota|Caudoviricetes|Justusliebigvirus	0.069000000000000
+1918536	genus	1239|526524|526525|128827|1918536	Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Longicatena	0.065000000000000
+1910992	genus	2731618|2731619|3424670|1910992	Uroviricota|Caudoviricetes|Sarkviridae|Kagunavirus	0.054000000000000
+680277	genus	2731618|2731619|3680502|680277	Uroviricota|Caudoviricetes|Mtkvariviridae|Kuravirus	0.052000000000000
+3569723	genus	1239|186801|3085636|186803|3569723	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Allocoprococcus	0.050000000000000
+187218	genus	2731618|2731619|2731690|187218	Uroviricota|Caudoviricetes|Demerecviridae|Tequintavirus	0.047000000000000
+2733199	genus	2731618|2731619|2733199	Uroviricota|Caudoviricetes|Oengusvirus	0.047000000000000
+2569097	genus	1239|186801|3085636|186803|2569097	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerobutyricum	0.045000000000000
+102106	genus	201174|84998|84999|84107|102106	Actinomycetota|Coriobacteriia|Coriobacteriales|Coriobacteriaceae|Collinsella	0.042000000000000
+191303	genus	1239|526524|526525|2810281|191303	Bacillota|Erysipelotrichia|Erysipelotrichales|Turicibacteraceae|Turicibacter	0.040000000000000
+3570277	genus	1239|186801|3085636|186803|3570277	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Pseudocoprococcus	0.039000000000000
+3044857	genus	2731618|2731619|3044459|3044857	Uroviricota|Caudoviricetes|Arenbergviridae|Wroclawvirus	0.038000000000000
+84111	genus	201174|84998|1643822|1643826|84111	Actinomycetota|Coriobacteriia|Eggerthellales|Eggerthellaceae|Eggerthella	0.036000000000000
+140410	genus	2731618|2731619|2946167|140410	Uroviricota|Caudoviricetes|Peduoviridae|Peduovirus	0.036000000000000
+2733124	genus	2731618|2731619|2733124	Uroviricota|Caudoviricetes|Phapecoctavirus	0.036000000000000
+10663	genus	2731618|2731619|3420545|2946170|10663	Uroviricota|Caudoviricetes|Pantevenvirales|Straboviridae|Tequatrovirus	0.030000000000000
+244127	genus	1239|186801|186802|216572|244127	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Anaerotruncus	0.024000000000000
+1198980	genus	2731618|2731619|3424659|1198980	Uroviricota|Caudoviricetes|Lindbergviridae|Pbunavirus	0.023000000000000
+371730	genus	2731618|2731619|2842329|371730	Uroviricota|Caudoviricetes|Schitoviridae|Enquatrovirus	0.023000000000000
+946234	genus	1239|186801|186802|216572|946234	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Flavonifractor	0.022000000000000
+2843387	genus	2731618|2731619|3700705|2843387	Uroviricota|Caudoviricetes|Zimmerviridae|Glaedevirus	0.021000000000000
+1920865	genus	2731618|2731619|2731691|1920865	Uroviricota|Caudoviricetes|Drexlerviridae|Tlsvirus	0.021000000000000
+2742598	genus	1239|91061|186826|33958|2742598	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Limosilactobacillus	0.020000000000000
+1769710	genus	1239|186801|3085636|186803|1769710	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Sellimonas	0.020000000000000
+248744	genus	1239|186801|3085636|186803|248744	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Marvinbryantia	0.020000000000000
+2944198	genus	1239|186801|3085636|186803|2944198	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Wansuia	0.020000000000000
+2944193	genus	1239|186801|3085636|186803|2944193	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Simiaoa	0.018000000000000
+1434011	genus	1224|28211|3120395|433|1434011	Pseudomonadota|Alphaproteobacteria|Acetobacterales|Acetobacteraceae|Komagataeibacter	0.017000000000000
+2759736	genus	1239|91061|186826|33958|2759736	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Lacticaseibacillus	0.016000000000000
+157	genus	203691|203692|3120456|2845253|157	Spirochaetota|Spirochaetia|Treponematales|Treponemataceae|Treponema	0.015000000000000
+620	genus	1224|1236|91347|543|620	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Shigella	0.014000000000000
+186777	genus	2731618|2731619|186777	Uroviricota|Caudoviricetes|Muvirus	0.014000000000000
+2732928	genus	2731618|2731619|3420540|3424636|2732928	Uroviricota|Caudoviricetes|Autographivirales|Autosignataviridae|Vectrevirus	0.014000000000000
+3152907	genus	2731618|2731619|3152907	Uroviricota|Caudoviricetes|Bimevirus	0.014000000000000
+2843455	genus	2731618|2731619|2843455	Uroviricota|Caudoviricetes|Sherbrookevirus	0.014000000000000
+2039302	genus	1239|186801|3085656|3085657|2039302	Bacillota|Clostridia|Monoglobales|Monoglobaceae|Monoglobus	0.014000000000000
+2732677	genus	2731618|2731619|3420540|3424637|2732677	Uroviricota|Caudoviricetes|Autographivirales|Autotranscriptaviridae|Berlinvirus	0.013000000000000
+2732063	genus	2731618|2731619|2731691|2732063	Uroviricota|Caudoviricetes|Drexlerviridae|Loudonvirus	0.012000000000000
+1920753	genus	2731618|2731619|2842329|1920753	Uroviricota|Caudoviricetes|Schitoviridae|Gamaleyavirus	0.011000000000000
+2732686	genus	2731618|2731619|3420540|3424637|2732686	Uroviricota|Caudoviricetes|Autographivirales|Autotranscriptaviridae|Kayfunavirus	0.011000000000000
+2842728	genus	2731618|2731619|2731691|2842728	Uroviricota|Caudoviricetes|Drexlerviridae|Henuseptimavirus	0.010000000000000
+1392389	genus	1239|186801|186802|1392389	Bacillota|Clostridia|Eubacteriales|Intestinimonas	0.010000000000000
+662	genus	1224|1236|135623|641|662	Pseudomonadota|Gammaproteobacteria|Vibrionales|Vibrionaceae|Vibrio	0.010000000000000
+33042	genus	1239|186801|3085636|186803|33042	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Coprococcus	0.010000000000000
+2892397	genus	1239|186801|186802|216572|2892397	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Pusillibacter	0.009000000000000
+2719231	genus	1239|186801|3085636|186803|2719231	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Lacrimispora	0.009000000000000
+570	genus	1224|1236|91347|543|570	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Klebsiella	0.009000000000000
+2892396	genus	1239|186801|186802|216572|2892396	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Vescimonas	0.009000000000000
+186532	genus	2731618|2731619|186532	Uroviricota|Caudoviricetes|Ceduovirus	0.008000000000000
+1386	genus	1239|91061|1385|186817|1386	Bacillota|Bacilli|Caryophanales|Bacillaceae|Bacillus	0.007000000000000
+40544	genus	1224|28216|80840|995019|40544	Pseudomonadota|Betaproteobacteria|Burkholderiales|Sutterellaceae|Sutterella	0.007000000000000
+2948785	genus	2731618|2731619|1978007|2942963|2948785	Uroviricota|Caudoviricetes|Crassvirales|Crevaviridae|Kingevirus	0.007000000000000
+1649459	genus	1239|186801|3085636|186803|1649459	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Hungatella	0.007000000000000
+1348911	genus	976|200643|171549|2005519|1348911	Bacteroidota|Bacteroidia|Bacteroidales|Barnesiellaceae|Coprobacter	0.007000000000000
+2942979	genus	2731618|2731619|1978007|2942965|2942979	Uroviricota|Caudoviricetes|Crassvirales|Steigviridae|Kahnovirus	0.007000000000000
+194	genus	29547|3031852|213849|72294|194	Campylobacterota|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter	0.006000000000000
+1357	genus	1239|91061|186826|1300|1357	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Lactococcus	0.006000000000000
+3342669	genus	1239|186801|3085636|186803|3342669	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Eshraghiella	0.006000000000000
+2732068	genus	2731618|2731619|2731691|2732068	Uroviricota|Caudoviricetes|Drexlerviridae|Warwickvirus	0.006000000000000
+2942991	genus	2731618|2731619|1978007|2942966|2942991	Uroviricota|Caudoviricetes|Crassvirales|Suoliviridae|Cohcovirus	0.006000000000000
+2843367	genus	2731618|2731619|2843367	Uroviricota|Caudoviricetes|Colneyvirus	0.006000000000000
+283	genus	1224|28216|80840|80864|283	Pseudomonadota|Betaproteobacteria|Burkholderiales|Comamonadaceae|Comamonas	0.006000000000000
+1843210	genus	1239|186801|3085636|186803|1843210	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerocolumna	0.006000000000000
+830	genus	1239|186801|3085636|186803|830	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Butyrivibrio	0.005000000000000
+1985329	genus	2731618|2731619|3420545|2946170|1985329	Uroviricota|Caudoviricetes|Pantevenvirales|Straboviridae|Moonvirus	0.005000000000000
+2717089	genus	1239|186801|186802|2717089	Bacillota|Clostridia|Eubacteriales|Massilistercora	0.005000000000000
+1263	genus	1239|186801|186802|216572|1263	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminococcus	0.005000000000000
+1849822	genus	1239|186801|3082720|186804|1849822	Bacillota|Clostridia|Peptostreptococcales|Peptostreptococcaceae|Paraclostridium	0.005000000000000
+838	genus	976|200643|171549|171552|838	Bacteroidota|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella	0.005000000000000
+1926556	genus	1239|186801|3082720|543314|1926556	Bacillota|Clostridia|Peptostreptococcales|Anaerovoracaceae|Emergencia	0.005000000000000
+286	genus	1224|1236|72274|135621|286	Pseudomonadota|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas	0.004000000000000
+2944152	genus	1239|186801|3085636|186803|2944152	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Wujia	0.004000000000000
+2082587	genus	201174|84998|84999|1643824|2082587	Actinomycetota|Coriobacteriia|Coriobacteriales|Atopobiaceae|Parolsenella	0.004000000000000
+28050	genus	1239|186801|3085636|186803|28050	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Lachnospira	0.004000000000000
+586418	genus	2732408|2732506|464095|12058|586418	Pisuviricota|Pisoniviricetes|Picornavirales|Picornaviridae|Cosavirus	0.004000000000000
+2678885	genus	1239|526524|526525|2810280|2678885	Bacillota|Erysipelotrichia|Erysipelotrichales|Coprobacillaceae|Faecalibacillus	0.004000000000000
+574697	genus	976|200643|171549|1853231|574697	Bacteroidota|Bacteroidia|Bacteroidales|Odoribacteraceae|Butyricimonas	0.004000000000000
+1654	genus	201174|1760|2037|2049|1654	Actinomycetota|Actinomycetes|Actinomycetales|Actinomycetaceae|Actinomyces	0.003000000000000
+133925	genus	201174|84998|84999|1643824|133925	Actinomycetota|Coriobacteriia|Coriobacteriales|Atopobiaceae|Olsenella	0.003000000000000
+547	genus	1224|1236|91347|543|547	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Enterobacter	0.003000000000000
+1921553	genus	2731618|2731619|1921553	Uroviricota|Caudoviricetes|Seuratvirus	0.003000000000000
+3024823	genus	1239|186801|3085636|186803|3024823	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaeromicropila	0.003000000000000
+32008	genus	1224|28216|80840|119060|32008	Pseudomonadota|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia	0.003000000000000
+904	genus	1239|909932|1843488|909930|904	Bacillota|Negativicutes|Acidaminococcales|Acidaminococcaceae|Acidaminococcus	0.003000000000000
+580596	genus	1239|186801|186802|3085642|580596	Bacillota|Clostridia|Eubacteriales|Butyricicoccaceae|Butyricicoccus	0.003000000000000
+2743582	genus	1239|186801|3082720|186804|2743582	Bacillota|Clostridia|Peptostreptococcales|Peptostreptococcaceae|Peptacetobacter	0.003000000000000
+1905344	genus	1239|186801|186802|216572|1905344	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruthenibacterium	0.003000000000000
+3076670	genus	1239|186801|3085636|186803|3076670	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Claveliimonas	0.003000000000000
+1918454	genus	1239|186801|186802|1918454	Bacillota|Clostridia|Eubacteriales|Flintibacter	0.003000000000000
+237	genus	976|117743|200644|49546|237	Bacteroidota|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Flavobacterium	0.002000000000000
+642	genus	1224|1236|135624|84642|642	Pseudomonadota|Gammaproteobacteria|Aeromonadales|Aeromonadaceae|Aeromonas	0.002000000000000
+459786	genus	1239|186801|186802|216572|459786	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Oscillibacter	0.002000000000000
+44249	genus	1239|91061|1385|186822|44249	Bacillota|Bacilli|Caryophanales|Paenibacillaceae|Paenibacillus	0.002000000000000
+3044711	genus	2731618|2731619|3152113|3044711	Uroviricota|Caudoviricetes|Chimalliviridae|Eowynvirus	0.002000000000000
+2732978	genus	2731618|2731619|2946167|2732978	Uroviricota|Caudoviricetes|Peduoviridae|Eganvirus	0.002000000000000
+252356	genus	976|117743|200644|49546|252356	Bacteroidota|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Maribacter	0.002000000000000
+1985328	genus	2731618|2731619|3420545|2946170|1985328	Uroviricota|Caudoviricetes|Pantevenvirales|Straboviridae|Slopekvirus	0.002000000000000
+2842531	genus	1239|186801|186802|216572|2842531	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Solibaculum	0.002000000000000
+292632	genus	1239|186801|186802|216572|292632	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Subdoligranulum	0.002000000000000
+1912144	genus	2731618|2731619|1912144	Uroviricota|Caudoviricetes|Lubbockvirus	0.002000000000000
+59732	genus	976|117743|200644|2762318|59732	Bacteroidota|Flavobacteriia|Flavobacteriales|Weeksellaceae|Chryseobacterium	0.002000000000000
+2944195	genus	1239|186801|3085636|186803|2944195	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Qiania	0.002000000000000
+2219049	genus	2732408|2732506|464095|2219049	Pisuviricota|Pisoniviricetes|Picornavirales|Husavirus	0.002000000000000
+1913654	genus	2731618|2731619|3420545|2946170|1913654	Uroviricota|Caudoviricetes|Pantevenvirales|Straboviridae|Gaprivervirus	0.002000000000000
+2767327	genus	201174|84998|84999|1643824|2767327	Actinomycetota|Coriobacteriia|Coriobacteriales|Atopobiaceae|Fannyhessea	0.002000000000000
+158846	genus	1239|909932|909929|1843491|158846	Bacillota|Negativicutes|Selenomonadales|Selenomonadaceae|Megamonas	0.002000000000000
+2843430	genus	2731618|2731619|2843430	Uroviricota|Caudoviricetes|Nevevirus	0.002000000000000
+2732876	genus	2732410|2732411|2732094|10860|2732876	Hofneiviricota|Faserviricetes|Tubulavirales|Inoviridae|Psecadovirus	0.002000000000000
+848	genus	32066|203490|203491|203492|848	Fusobacteriota|Fusobacteriia|Fusobacteriales|Fusobacteriaceae|Fusobacterium	0.002000000000000
+2842995	genus	2732407|2842243|2842247|2842319|2842995	Lenarviricota|Leviviricetes|Norzivirales|Fiersviridae|Qubevirus	0.002000000000000
+1921544	genus	2731618|2731619|1921544	Uroviricota|Caudoviricetes|Septimatrevirus	0.002000000000000
+1912216	genus	201174|1760|85009|31957|1912216	Actinomycetota|Actinomycetes|Propionibacteriales|Propionibacteriaceae|Cutibacterium	0.002000000000000
+1378	genus	1239|91061|1385|539738|1378	Bacillota|Bacilli|Caryophanales|Gemellaceae|Gemella	0.002000000000000
+1279	genus	1239|91061|1385|90964|1279	Bacillota|Bacilli|Caryophanales|Staphylococcaceae|Staphylococcus	0.002000000000000
+46205	genus	1239|186801|3085636|186803|46205	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Pseudobutyrivibrio	0.002000000000000
+2749267	genus	1239|526524|526525|128827|2749267	Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Amedibacterium	0.002000000000000
+2888809	genus	1239|186801|3085636|186803|2888809	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Novisyntrophococcus	0.002000000000000
+2842574	genus	2731618|2731619|2842574	Uroviricota|Caudoviricetes|Byrnievirus	0.002000000000000
+249588	genus	2732408|2732507|2732551|39733|249588	Pisuviricota|Stelpaviricetes|Stellavirales|Astroviridae|Mamastrovirus	0.002000000000000
+2767887	genus	1239|91061|186826|33958|2767887	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Ligilactobacillus	0.002000000000000
+1164882	genus	1239|186801|3085636|186803|1164882	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Lachnoanaerobaculum	0.002000000000000
+2767842	genus	1239|91061|186826|33958|2767842	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Lactiplantibacillus	0.002000000000000
+1266	genus	1239|186801|186802|31979|1266	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Sarcina	0.002000000000000
+2997360	genus	1239|186801|3085636|186803|2997360	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaeropeptidivorans	0.001000000000000
+1769729	genus	1239|186801|186802|31979|1769729	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Hathewaya	0.001000000000000
+2732960	genus	2731618|2731619|2731689|2732960	Uroviricota|Caudoviricetes|Chaseviridae|Carltongylesvirus	0.001000000000000
+3681505	genus	1239|526524|526525|128827|3681505	Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Hoskinsella	0.001000000000000
+2930384	genus	1239|91061|186826|33958|2930384	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Periweissella	0.001000000000000
+3137766	genus	1224|1236|135619|28256|3137766	Pseudomonadota|Gammaproteobacteria|Oceanospirillales|Halomonadaceae|Vreelandella	0.001000000000000
+2733190	genus	2731618|2731619|2733190	Uroviricota|Caudoviricetes|Lughvirus	0.001000000000000
+63743	genus	28890|183963|2235|3402413|63743	Methanobacteriota|Halobacteria|Halobacteriales|Natronomonadaceae|Natronomonas	0.001000000000000
+2169663	genus	2732416|2732423|2732537|2169574|2169663	Cressdnaviricota|Arfiviricetes|Cremevirales|Smacoviridae|Porprismacovirus	0.001000000000000
+1890059	genus	1239|186801|3082720|3118656|1890059	Bacillota|Clostridia|Peptostreptococcales|Natronincolaceae|Serpentinicella	0.001000000000000
+1505652	genus	1239|186801|3082720|186804|1505652	Bacillota|Clostridia|Peptostreptococcales|Peptostreptococcaceae|Terrisporobacter	0.001000000000000
+1507401	genus	2732415|2732422|2732534|10780|1507401	Cossaviricota|Quintoviricetes|Piccovirales|Parvoviridae|Bocaparvovirus	0.001000000000000
+35829	genus	1239|186801|3120394|3120654|35829	Bacillota|Clostridia|Acetivibrionales|Acetivibrionaceae|Acetivibrio	0.001000000000000
+906	genus	1239|909932|1843489|31977|906	Bacillota|Negativicutes|Veillonellales|Veillonellaceae|Megasphaera	0.001000000000000
+214904	genus	1239|186801|3082720|186804|214904	Bacillota|Clostridia|Peptostreptococcales|Peptostreptococcaceae|Tepidibacter	0.001000000000000
+2679910	genus	1239|526524|526525|128827|2679910	Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Intestinibaculum	0.001000000000000
+1433995	genus	976|117743|200644|2762318|1433995	Bacteroidota|Flavobacteriia|Flavobacteriales|Weeksellaceae|Cruoricaptor	0.001000000000000
+2147	genus	544448|31969|186329|2146|2147	Mycoplasmatota|Mollicutes|Acholeplasmatales|Acholeplasmataceae|Acholeplasma	0.001000000000000
+2981634	genus	1239|186801|186802|216572|2981634	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Hominimerdicola	0.001000000000000
+2733134	genus	2731618|2731619|2733134	Uroviricota|Caudoviricetes|Taranisvirus	0.001000000000000
+44259	genus	1239|186801|3082720|3118655|44259	Bacillota|Clostridia|Peptostreptococcales|Filifactoraceae|Filifactor	0.001000000000000
+1980697	genus	1224|28216|80840|995019|1980697	Pseudomonadota|Betaproteobacteria|Burkholderiales|Sutterellaceae|Duodenibacillus	0.001000000000000
+33986	genus	1239|91061|1385|33986	Bacillota|Bacilli|Caryophanales|Exiguobacterium	0.001000000000000
+110456	genus	2731618|2731619|3420540|3424637|110456	Uroviricota|Caudoviricetes|Autographivirales|Autotranscriptaviridae|Teseptimavirus	0.001000000000000
+283168	genus	976|200643|171549|1853231|283168	Bacteroidota|Bacteroidia|Bacteroidales|Odoribacteraceae|Odoribacter	0.001000000000000
+186794	genus	2731618|2731619|186794	Uroviricota|Caudoviricetes|Lederbergvirus	0.001000000000000
+186650	genus	1224|28211|356|119045|186650	Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Methylobacteriaceae|Microvirga	0.001000000000000
+40323	genus	1224|1236|135614|32033|40323	Pseudomonadota|Gammaproteobacteria|Lysobacterales|Lysobacteraceae|Stenotrophomonas	0.001000000000000
+329857	genus	1239|91061|1385|186822|329857	Bacillota|Bacilli|Caryophanales|Paenibacillaceae|Cohnella	0.001000000000000
+1817	genus	201174|1760|85007|85025|1817	Actinomycetota|Actinomycetes|Mycobacteriales|Nocardiaceae|Nocardia	0.001000000000000
+3047433	genus	1239|186801|186802|3047432|3047433	Bacillota|Clostridia|Eubacteriales|Maliibacteriaceae|Maliibacterium	0.001000000000000
+55080	genus	1239|91061|1385|186822|55080	Bacillota|Bacilli|Caryophanales|Paenibacillaceae|Brevibacillus	0.001000000000000
+1663717	genus	1239|186801|3085636|186803|1663717	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Herbinix	0.001000000000000
+1918385	genus	1239|186801|186802|3082771|1918385	Bacillota|Clostridia|Eubacteriales|Acutalibacteraceae|Acutalibacter	0.001000000000000
+1985720	genus	2731618|2731619|3420540|3424637|1985720	Uroviricota|Caudoviricetes|Autographivirales|Autotranscriptaviridae|Przondovirus	0.001000000000000
+2834348	genus	1239|186801|186802|216572|2834348	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Caproicibacterium	0.001000000000000
+469	genus	1224|1236|2887326|468|469	Pseudomonadota|Gammaproteobacteria|Moraxellales|Moraxellaceae|Acinetobacter	0.001000000000000
+2529408	genus	201174|1760|2037|2049|2529408	Actinomycetota|Actinomycetes|Actinomycetales|Actinomycetaceae|Schaalia	0.001000000000000
+22	genus	1224|1236|135622|267890|22	Pseudomonadota|Gammaproteobacteria|Alteromonadales|Shewanellaceae|Shewanella	0.001000000000000
+1883	genus	201174|1760|85011|2062|1883	Actinomycetota|Actinomycetes|Kitasatosporales|Streptomycetaceae|Streptomyces	0.001000000000000
+1434026	genus	1239|186801|186802|31979|1434026	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Oceanirhabdus	0.001000000000000
+1910951	genus	2732412|10841|1910950|3701015|1910951	Phixviricota|Microviricetes|Bullavirales|Eubullaviridae|Alphatrevirus	0.001000000000000
+390805	genus	1239|186801|3082720|3118657|390805	Bacillota|Clostridia|Peptostreptococcales|Thermotaleaceae|Geosporobacter	0.001000000000000
+82986	genus	1224|1236|91347|1903409|82986	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Erwiniaceae|Tatumella	0.001000000000000
+49082	genus	1239|186801|186802|31979|49082	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Candidatus Neoarthromitus	0.001000000000000
+1729679	genus	1239|526524|526525|128827|1729679	Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Faecalibaculum	0.001000000000000
+2842979	genus	2731618|2731619|3420545|2946170|2842979	Uroviricota|Caudoviricetes|Pantevenvirales|Straboviridae|Pseudotevenvirus	0.001000000000000
+107	genus	976|768503|768507|89373|107	Bacteroidota|Cytophagia|Cytophagales|Cytophagaceae|Spirosoma	0.001000000000000
+3685825	genus	1239|186801|3082720|3118656|3685825	Bacillota|Clostridia|Peptostreptococcales|Natronincolaceae|Andreesenella	0.001000000000000
+2560145	genus	2731618|2731619|2731691|2560145	Uroviricota|Caudoviricetes|Drexlerviridae|Hanrivervirus	0.001000000000000
+1506577	genus	1239|186801|3085636|186803|1506577	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Tyzzerella	0.001000000000000
+400634	genus	1239|91061|1385|186817|400634	Bacillota|Bacilli|Caryophanales|Bacillaceae|Lysinibacillus	0.001000000000000
+379	genus	1224|28211|356|82115|379	Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Rhizobiaceae|Rhizobium	0.001000000000000
+160795	genus	1239|91061|1385|186818|160795	Bacillota|Bacilli|Caryophanales|Caryophanaceae|Ureibacillus	0.001000000000000
+2733138	genus	2731618|2731619|2733138	Uroviricota|Caudoviricetes|Toutatisvirus	0.001000000000000
+2733141	genus	2731618|2731619|3424659|2733141	Uroviricota|Caudoviricetes|Lindbergviridae|Wifcevirus	0.001000000000000
+138	genus	203691|203692|136|1643685|138	Spirochaetota|Spirochaetia|Spirochaetales|Borreliaceae|Borrelia	0.001000000000000
+2847307	genus	201174|84998|84999|1643824|2847307	Actinomycetota|Coriobacteriia|Coriobacteriales|Atopobiaceae|Thermophilibacter	0.001000000000000
+1069494	genus	201174|1760|2037|2049|1069494	Actinomycetota|Actinomycetes|Actinomycetales|Actinomycetaceae|Trueperella	0.001000000000000
+150022	genus	1239|1737404|1737405|1570339|150022	Bacillota|Tissierellia|Tissierellales|Peptoniphilaceae|Finegoldia	0.001000000000000
+2847312	genus	201174|84998|84999|1643824|2847312	Actinomycetota|Coriobacteriia|Coriobacteriales|Atopobiaceae|Parafannyhessea	0.001000000000000
+1354809	genus	1239|1737404|1737405|2992719|1354809	Bacillota|Tissierellia|Tissierellales|Tepidimicrobiaceae|Keratinibaculum	0.001000000000000
+2789201	genus	67812|2789201	Candidatus Omnitrophota|Candidatus Velamenicoccus	0.001000000000000
+2732873	genus	2732410|2732411|2732094|10860|2732873	Hofneiviricota|Faserviricetes|Tubulavirales|Inoviridae|Infulavirus	0.001000000000000
+33870	genus	201174|84998|84999|84107|33870	Actinomycetota|Coriobacteriia|Coriobacteriales|Coriobacteriaceae|Coriobacterium	0.001000000000000
+613	genus	1224|1236|91347|1903411|613	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Yersiniaceae|Serratia	0.001000000000000
+1891715	genus	2732415|2732421|2732532|151341|1891715	Cossaviricota|Papovaviricetes|Sepolyvirales|Polyomaviridae|Deltapolyomavirus	0.001000000000000
+1508657	genus	1239|186801|186802|216572|1508657	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium	0.001000000000000
+79328	genus	976|1853228|1853229|563835|79328	Bacteroidota|Chitinophagia|Chitinophagales|Chitinophagaceae|Chitinophaga	0.001000000000000
+1186	genus	1117|3028117|1161|2661849|1186	Cyanobacteriota|Cyanophyceae|Nostocales|Calotrichaceae|Calothrix	0.001000000000000
+2767886	genus	1239|91061|186826|33958|2767886	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Levilactobacillus	0.001000000000000
+2995122	genus	201174|84998|84999|3153719|2995122	Actinomycetota|Coriobacteriia|Coriobacteriales|Kribbibacteriaceae|Leptogranulimonas	0.001000000000000
+1506574	genus	2732415|2732422|2732534|10780|1506574	Cossaviricota|Quintoviricetes|Piccovirales|Parvoviridae|Protoparvovirus	0.001000000000000
+2838170	genus	1239|186801|186802|1491775|2838170	Bacillota|Clostridia|Eubacteriales|Proteinivoracaceae|Alkalicella	0.001000000000000
+970	genus	1239|909932|909929|1843491|970	Bacillota|Negativicutes|Selenomonadales|Selenomonadaceae|Selenomonas	0.001000000000000
+2843351	genus	2731618|2731619|2843351	Uroviricota|Caudoviricetes|Audreyjarvisvirus	0.001000000000000
+454155	species	976|200643|171549|171552|577309|454155	Bacteroidota|Bacteroidia|Bacteroidales|Prevotellaceae|Paraprevotella|Paraprevotella xylaniphila	33.526000000000003
+818	species	976|200643|171549|815|816|818	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides thetaiotaomicron	7.983000000000000
+853	species	1239|186801|186802|216572|216851|853	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Faecalibacterium|Faecalibacterium prausnitzii	6.540000000000000
+40520	species	1239|186801|3085636|186803|572511|40520	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Blautia|Blautia obeum	4.124000000000000
+626940	species	1239|909932|1843488|909930|33024|626940	Bacillota|Negativicutes|Acidaminococcales|Acidaminococcaceae|Phascolarctobacterium|Phascolarctobacterium succinatutens	3.345000000000000
+1496	species	1239|186801|3082720|186804|1870884|1496	Bacillota|Clostridia|Peptostreptococcales|Peptostreptococcaceae|Clostridioides|Clostridioides difficile	3.300000000000000
+2847299	species	976|200643|171549|815|816|2847299	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides sp. DH3716P	3.180000000000000
+2929495	species	1239|186801|186802|216572|216851|2929495	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Faecalibacterium|Faecalibacterium sp. I4-3-84	3.086000000000000
+2107999	species	1239|91061|186826|33958|1578|2107999	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus paragasseri	2.971000000000000
+9606	species	7711|40674|9443|9604|9605|9606	Chordata|Mammalia|Primates|Hominidae|Homo|Homo sapiens	2.236000000000000
+2929494	species	1239|186801|186802|216572|216851|2929494	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Faecalibacterium|Faecalibacterium sp. I4-1-79	2.126000000000000
+454154	species	976|200643|171549|171552|577309|454154	Bacteroidota|Bacteroidia|Bacteroidales|Prevotellaceae|Paraprevotella|Paraprevotella clara	1.839000000000000
+89153	species	1239|186801|3085636|186803|1506553|89153	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Lachnoclostridium|[Clostridium] hylemonae	1.727000000000000
+28901	species	1224|1236|91347|543|590|28901	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Salmonella|Salmonella enterica	1.722000000000000
+88431	species	1239|186801|3085636|186803|189330|88431	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Dorea|Dorea longicatena	1.485000000000000
+2929488	species	1239|186801|186802|216572|216851|2929488	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Faecalibacterium|Faecalibacterium sp. IP-1-18	1.401000000000000
+817	species	976|200643|171549|815|816|817	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides fragilis	1.316000000000000
+2929492	species	1239|186801|186802|216572|216851|2929492	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Faecalibacterium|Faecalibacterium sp. I3-3-33	0.945000000000000
+649756	species	1239|186801|3085636|186803|207244|649756	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerostipes|Anaerostipes hadrus	0.915000000000000
+301301	species	1239|186801|3085636|186803|841|301301	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Roseburia|Roseburia hominis	0.875000000000000
+28116	species	976|200643|171549|815|816|28116	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides ovatus	0.767000000000000
+1304	species	1239|91061|186826|1300|1301|1304	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus salivarius	0.763000000000000
+823	species	976|200643|171549|2005525|375288|823	Bacteroidota|Bacteroidia|Bacteroidales|Tannerellaceae|Parabacteroides|Parabacteroides distasonis	0.748000000000000
+562	species	1224|1236|91347|543|561|562	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Escherichia|Escherichia coli	0.692000000000000
+2093857	species	1239|186801|186802|216572|2591381|2093857	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Dysosmobacter|Dysosmobacter welbionis	0.629000000000000
+1507512	species	1239|186801|3082720|186804|1501226|1507512	Bacillota|Clostridia|Peptostreptococcales|Peptostreptococcaceae|Romboutsia|Romboutsia hominis	0.517000000000000
+2478954	species	1239|526524|526525|2810280|135858|2478954	Bacillota|Erysipelotrichia|Erysipelotrichales|Coprobacillaceae|Catenibacterium|Catenibacterium sp. co_0103	0.512000000000000
+2929491	species	1239|186801|186802|216572|216851|2929491	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Faecalibacterium|Faecalibacterium wellingii	0.505000000000000
+1354	species	1239|91061|186826|81852|1350|1354	Bacillota|Bacilli|Lactobacillales|Enterococcaceae|Enterococcus|Enterococcus hirae	0.505000000000000
+1583	species	1239|91061|186826|33958|46255|1583	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Weissella|Weissella confusa	0.458000000000000
+371601	species	976|200643|171549|815|816|371601	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides xylanisolvens	0.358000000000000
+44742	species	200940|3031449|213115|194924|872|44742	Thermodesulfobacteriota|Desulfovibrionia|Desulfovibrionales|Desulfovibrionaceae|Desulfovibrio|Desulfovibrio fairfieldensis	0.353000000000000
+1596	species	1239|91061|186826|33958|1578|1596	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus gasseri	0.316000000000000
+57706	species	1224|1236|91347|543|544|57706	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter braakii	0.297000000000000
+411483	species	1239|186801|186802|216572|216851|411483	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Faecalibacterium|Faecalibacterium duncaniae	0.295000000000000
+1737424	species	1239|186801|3085636|186803|572511|1737424	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Blautia|Blautia massiliensis (ex Durand et al. 2017)	0.284000000000000
+3060524	species	2731618|2731619|3152113|3044787|3060524	Uroviricota|Caudoviricetes|Chimalliviridae|Pawinskivirus|Pawinskivirus PS119XW	0.271000000000000
+100886	species	1239|526524|526525|2810280|135858|100886	Bacillota|Erysipelotrichia|Erysipelotrichales|Coprobacillaceae|Catenibacterium|Catenibacterium mitsuokai	0.269000000000000
+33038	species	1239|186801|3085636|186803|2316020|33038	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Mediterraneibacter|Mediterraneibacter gnavus	0.232000000000000
+3433022	species	2731618|2731619|3420545|2946170|2560244|3433022	Uroviricota|Caudoviricetes|Pantevenvirales|Straboviridae|Tulanevirus|Tulanevirus ime13	0.216000000000000
+2929489	species	1239|186801|186802|216572|216851|2929489	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Faecalibacterium|Faecalibacterium sp. IP-3-29	0.207000000000000
+1685	species	201174|1760|85004|31953|1678|1685	Actinomycetota|Actinomycetes|Bifidobacteriales|Bifidobacteriaceae|Bifidobacterium|Bifidobacterium breve	0.181000000000000
+626937	species	1239|186801|3082768|990719|990721|626937	Bacillota|Clostridia|Christensenellales|Christensenellaceae|Christensenella|Christensenella minuta	0.173000000000000
+626932	species	976|200643|171549|171550|239759|626932	Bacteroidota|Bacteroidia|Bacteroidales|Rikenellaceae|Alistipes|Alistipes indistinctus	0.168000000000000
+2560541	species	2731618|2731619|2560086|2560541	Uroviricota|Caudoviricetes|Alcyoneusvirus|Alcyoneusvirus K641	0.166000000000000
+418240	species	1239|186801|3085636|186803|572511|418240	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Blautia|Blautia wexlerae	0.146000000000000
+1547	species	1239|526524|526525|2810280|3025755|1547	Bacillota|Erysipelotrichia|Erysipelotrichales|Coprobacillaceae|Thomasclavelia|Thomasclavelia ramosa	0.138000000000000
+821	species	976|200643|171549|815|909656|821	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Phocaeicola|Phocaeicola vulgatus	0.133000000000000
+2560455	species	2731618|2731619|1914852|2560455	Uroviricota|Caudoviricetes|Vequintavirus|Vequintavirus V18	0.133000000000000
+29466	species	1239|909932|1843489|31977|29465|29466	Bacillota|Negativicutes|Veillonellales|Veillonellaceae|Veillonella|Veillonella parvula	0.129000000000000
+1985304	species	2731618|2731619|3424631|1985303|1985304	Uroviricota|Caudoviricetes|Andersonviridae|Mooglevirus|Mooglevirus moogle	0.113000000000000
+2929490	species	1239|186801|186802|216572|216851|2929490	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Faecalibacterium|Faecalibacterium sp. I2-3-92	0.108000000000000
+2929493	species	1239|186801|186802|216572|216851|2929493	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Faecalibacterium|Faecalibacterium sp. I3-3-89	0.105000000000000
+2877527	species	1239|186801|3085636|186803|572511|2877527	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Blautia|Blautia parvula	0.100000000000000
+208479	species	1239|186801|3085636|186803|2719313|208479	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Enterocloster|Enterocloster bolteae	0.099000000000000
+1681	species	201174|1760|85004|31953|1678|1681	Actinomycetota|Actinomycetes|Bifidobacteriales|Bifidobacteriaceae|Bifidobacterium|Bifidobacterium bifidum	0.098000000000000
+2041044	species	1239|186801|186802|186806|1730|2041044	Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Eubacterium|Eubacterium maltosivorans	0.093000000000000
+1351	species	1239|91061|186826|81852|1350|1351	Bacillota|Bacilli|Lactobacillales|Enterococcaceae|Enterococcus|Enterococcus faecalis	0.093000000000000
+2479767	species	1239|186801|3085636|186803|572511|2479767	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Blautia|Blautia sp. SC05B48	0.091000000000000
+2734096	species	2731618|2731619|2733097|2734096	Uroviricota|Caudoviricetes|Brigitvirus|Brigitvirus brigit	0.088000000000000
+1912897	species	1239|186801|3085636|186803|572511|1912897	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Blautia|Blautia argi	0.087000000000000
+3428283	species	2731618|2731619|1623289|3428283	Uroviricota|Caudoviricetes|Dhillonvirus|Dhillonvirus sponge	0.079000000000000
+357276	species	976|200643|171549|815|909656|357276	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Phocaeicola|Phocaeicola dorei	0.074000000000000
+2956041	species	2731618|2731619|2948775|2956041	Uroviricota|Caudoviricetes|Justusliebigvirus|Justusliebigvirus phi92	0.069000000000000
+820	species	976|200643|171549|815|816|820	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides uniformis	0.068000000000000
+1736	species	1239|186801|186802|186806|1730|1736	Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Eubacterium|Eubacterium limosum	0.067000000000000
+1796635	species	1239|526524|526525|128827|1918536|1796635	Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Longicatena|Longicatena caecimuris	0.065000000000000
+2585119	species	976|200643|171549|171550|239759|2585119	Bacteroidota|Bacteroidia|Bacteroidales|Rikenellaceae|Alistipes|Alistipes dispar	0.060000000000000
+166486	species	1239|186801|3085636|186803|841|166486	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Roseburia|Roseburia intestinalis	0.057000000000000
+3052757	species	2731618|2731619|3680502|3044836|3052757	Uroviricota|Caudoviricetes|Mtkvariviridae|Suseptimavirus|Suseptimavirus ECBP2	0.054000000000000
+3060723	species	2731618|2731619|3680502|3044836|3060723	Uroviricota|Caudoviricetes|Mtkvariviridae|Suseptimavirus|Suseptimavirus SU7	0.053000000000000
+410072	species	1239|186801|3085636|186803|3569723|410072	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Allocoprococcus|Allocoprococcus comes	0.050000000000000
+2845444	species	2731618|2731619|1623305|2845444	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus sv193	0.049000000000000
+1316410	species	1239|91061|186826|1300|1301|1316410	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. HSISS1	0.047000000000000
+1328	species	1239|91061|186826|1300|1301|1328	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus anginosus	0.047000000000000
+2734262	species	2731618|2731619|2733199|2734262	Uroviricota|Caudoviricetes|Oengusvirus|Oengusvirus oengus	0.047000000000000
+39488	species	1239|186801|3085636|186803|2569097|39488	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerobutyricum|Anaerobutyricum hallii	0.045000000000000
+2733982	species	2731618|2731619|2731690|187218|2733982	Uroviricota|Caudoviricetes|Demerecviridae|Tequintavirus|Tequintavirus DT5712	0.045000000000000
+1502	species	1239|186801|186802|31979|1485|1502	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium perfringens	0.043000000000000
+3428259	species	2731618|2731619|1623289|3428259	Uroviricota|Caudoviricetes|Dhillonvirus|Dhillonvirus EC115	0.041000000000000
+2732019	species	2731618|2731619|2731690|2732017|2732019	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus mar003J3	0.041000000000000
+1561	species	1239|186801|186802|31979|1485|1561	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium baratii	0.040000000000000
+116085	species	1239|186801|3085636|186803|3570277|116085	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Pseudocoprococcus|Pseudocoprococcus catus	0.039000000000000
+3060806	species	2731618|2731619|3044459|3044857|3060806	Uroviricota|Caudoviricetes|Arenbergviridae|Wroclawvirus|Wroclawvirus PA5oct	0.038000000000000
+1839799	species	1239|91061|186826|1300|1301|1839799	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. FDAARGOS_192	0.037000000000000
+3060720	species	2731618|2731619|3680502|3044836|3060720	Uroviricota|Caudoviricetes|Mtkvariviridae|Suseptimavirus|Suseptimavirus 101114UKE3	0.037000000000000
+154288	species	1239|526524|526525|2810281|191303|154288	Bacillota|Erysipelotrichia|Erysipelotrichales|Turicibacteraceae|Turicibacter|Turicibacter sanguinis	0.037000000000000
+3060080	species	2731618|2731619|3680502|680277|3060080	Uroviricota|Caudoviricetes|Mtkvariviridae|Kuravirus|Kuravirus MN05	0.036000000000000
+2420308	species	1239|91061|186826|1300|1301|2420308	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. FDAARGOS_520	0.036000000000000
+84112	species	201174|84998|1643822|1643826|84111|84112	Actinomycetota|Coriobacteriia|Eggerthellales|Eggerthellaceae|Eggerthella|Eggerthella lenta	0.036000000000000
+29347	species	1239|186801|3085636|186803|1506553|29347	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Lachnoclostridium|[Clostridium] scindens	0.035000000000000
+2742655	species	1224|1236|91347|543|544|2742655	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter sp. RHBSTW-00570	0.033000000000000
+33039	species	1239|186801|3085636|186803|2316020|33039	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Mediterraneibacter|Mediterraneibacter torques	0.032000000000000
+2845161	species	2731618|2731619|1623305|2845161	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus sv38503	0.031000000000000
+3431622	species	2731618|2731619|2733124|3431622	Uroviricota|Caudoviricetes|Phapecoctavirus|Phapecoctavirus ESCO5	0.029000000000000
+674529	species	976|200643|171549|815|816|674529	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides faecis	0.028000000000000
+2885687	species	2731618|2731619|3424670|1910992|2885687	Uroviricota|Caudoviricetes|Sarkviridae|Kagunavirus|Escherichia phage NTEC3	0.026000000000000
+2873413	species	2731618|2731619|3424670|1910992|2873413	Uroviricota|Caudoviricetes|Sarkviridae|Kagunavirus|Escherichia phage 26	0.025000000000000
+74426	species	201174|84998|84999|84107|102106|74426	Actinomycetota|Coriobacteriia|Coriobacteriales|Coriobacteriaceae|Collinsella|Collinsella aerofaciens	0.024000000000000
+169435	species	1239|186801|186802|216572|244127|169435	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Anaerotruncus|Anaerotruncus colihominis	0.024000000000000
+10752	species	2731618|2731619|2842329|371730|10752	Uroviricota|Caudoviricetes|Schitoviridae|Enquatrovirus|Enquatrovirus N4	0.023000000000000
+2844219	species	2731618|2731619|2946167|140410|2844219	Uroviricota|Caudoviricetes|Peduoviridae|Peduovirus|Peduovirus P24A7b	0.023000000000000
+2006174	species	2731618|2731619|3424659|1198980|2006174	Uroviricota|Caudoviricetes|Lindbergviridae|Pbunavirus|Pbunavirus pv141	0.023000000000000
+292800	species	1239|186801|186802|216572|946234|292800	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Flavonifractor|Flavonifractor plautii	0.022000000000000
+39486	species	1239|186801|3085636|186803|189330|39486	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Dorea|Dorea formicigenerans	0.022000000000000
+556259	species	976|200643|171549|815|816|556259	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides sp. D2	0.021000000000000
+2844173	species	2731618|2731619|3700705|2843387|2844173	Uroviricota|Caudoviricetes|Zimmerviridae|Glaedevirus|Glaedevirus gv2H10	0.021000000000000
+2734009	species	2731618|2731619|2731691|1920865|2734009	Uroviricota|Caudoviricetes|Drexlerviridae|Tlsvirus|Tlsvirus sazh	0.021000000000000
+216816	species	201174|1760|85004|31953|1678|216816	Actinomycetota|Actinomycetes|Bifidobacteriales|Bifidobacteriaceae|Bifidobacterium|Bifidobacterium longum	0.020000000000000
+168384	species	1239|186801|3085636|186803|248744|168384	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Marvinbryantia|Marvinbryantia formatexigens	0.020000000000000
+1653434	species	1239|186801|3085636|186803|1769710|1653434	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Sellimonas|Sellimonas intestinalis	0.020000000000000
+2763667	species	1239|186801|3085636|186803|2944198|2763667	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Wansuia|Wansuia hejianensis	0.020000000000000
+2846680	species	2731618|2731619|3420545|2946170|10663|2846680	Uroviricota|Caudoviricetes|Pantevenvirales|Straboviridae|Tequatrovirus|Tequatrovirus pyps2t	0.019000000000000
+1322	species	1239|186801|3085636|186803|572511|1322	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Blautia|Blautia hansenii	0.019000000000000
+2763025	species	976|200643|171549|815|816|2763025	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides parvus	0.019000000000000
+2763672	species	1239|186801|3085636|186803|2944193|2763672	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Simiaoa|Simiaoa sunii	0.018000000000000
+1309	species	1239|91061|186826|1300|1301|1309	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus mutans	0.018000000000000
+864178	species	2731618|2731619|864178	Uroviricota|Caudoviricetes|Clostridium phage phiCD6356	0.018000000000000
+33959	species	1239|91061|186826|33958|1578|33959	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus johnsonii	0.017000000000000
+65958	species	1224|28211|3120395|433|1434011|65958	Pseudomonadota|Alphaproteobacteria|Acetobacterales|Acetobacteraceae|Komagataeibacter|Komagataeibacter oboediens	0.017000000000000
+147206	species	201174|84998|84999|84107|102106|147206	Actinomycetota|Coriobacteriia|Coriobacteriales|Coriobacteriaceae|Collinsella|Collinsella stercoris	0.017000000000000
+46228	species	1239|186801|3085636|186803|2316020|46228	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Mediterraneibacter|[Ruminococcus] lactaris	0.017000000000000
+2845171	species	2731618|2731619|1623305|2845171	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus sv57001	0.017000000000000
+2763022	species	976|200643|171549|815|816|2763022	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides sp. M10	0.016000000000000
+1308	species	1239|91061|186826|1300|1301|1308	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus thermophilus	0.016000000000000
+2845148	species	2731618|2731619|1623305|2845148	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus sv05601	0.015000000000000
+1796613	species	976|200643|171549|815|816|1796613	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides caecimuris	0.015000000000000
+2742627	species	1224|1236|91347|543|544|2742627	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter sp. RHB36-C18	0.015000000000000
+1987942	species	2731618|2731619|3680502|680277|1987942	Uroviricota|Caudoviricetes|Mtkvariviridae|Kuravirus|Kuravirus SU10	0.015000000000000
+2733583	species	2731618|2731619|3420540|3424636|2732928|2733583	Uroviricota|Caudoviricetes|Autographivirales|Autosignataviridae|Vectrevirus|Vectrevirus ACGC91	0.014000000000000
+1352	species	1239|91061|186826|81852|1350|1352	Bacillota|Bacilli|Lactobacillales|Enterococcaceae|Enterococcus|Enterococcus faecium	0.014000000000000
+3427486	species	2731618|2731619|3152907|3427486	Uroviricota|Caudoviricetes|Bimevirus|Bimevirus IME346	0.014000000000000
+1981510	species	1239|186801|3085656|3085657|2039302|1981510	Bacillota|Clostridia|Monoglobales|Monoglobaceae|Monoglobus|Monoglobus pectinilyticus	0.014000000000000
+10677	species	2731618|2731619|186777|10677	Uroviricota|Caudoviricetes|Muvirus|Muvirus mu	0.014000000000000
+2844220	species	2731618|2731619|2946167|140410|2844220	Uroviricota|Caudoviricetes|Peduoviridae|Peduovirus|Peduovirus P24B2	0.013000000000000
+3428265	species	2731618|2731619|1623289|3428265	Uroviricota|Caudoviricetes|Dhillonvirus|Dhillonvirus JLBYU37	0.013000000000000
+2732779	species	2731618|2731619|3420540|3424637|2732677|2732779	Uroviricota|Caudoviricetes|Autographivirales|Autotranscriptaviridae|Berlinvirus|Berlinvirus P483	0.013000000000000
+546	species	1224|1236|91347|543|544|546	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter freundii	0.012000000000000
+2742653	species	1224|1236|91347|543|544|2742653	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter sp. RHBSTW-00524	0.012000000000000
+3430497	species	2731618|2731619|2731691|2732063|3430497	Uroviricota|Caudoviricetes|Drexlerviridae|Loudonvirus|Loudonvirus EC3a	0.012000000000000
+623	species	1224|1236|91347|543|620|623	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Shigella|Shigella flexneri	0.012000000000000
+1316411	species	1239|91061|186826|1300|1301|1316411	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. HSISS2	0.012000000000000
+47715	species	1239|91061|186826|33958|2759736|47715	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Lacticaseibacillus|Lacticaseibacillus rhamnosus	0.012000000000000
+39496	species	1239|186801|186802|186806|1730|39496	Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Eubacterium|Eubacterium ventriosum	0.011000000000000
+1313	species	1239|91061|186826|1300|1301|1313	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus pneumoniae	0.011000000000000
+291645	species	976|200643|171549|815|816|291645	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides nordii	0.011000000000000
+3428289	species	2731618|2731619|1623289|3428289	Uroviricota|Caudoviricetes|Dhillonvirus|Dhillonvirus WF1	0.011000000000000
+2846095	species	2731618|2731619|2731690|2732017|2846095	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus OSYSTA	0.011000000000000
+1491	species	1239|186801|186802|31979|1485|1491	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium botulinum	0.011000000000000
+2732024	species	2731618|2731619|2731690|2732017|2732024	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus S113	0.011000000000000
+1319	species	1239|91061|186826|1300|1301|1319	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. 'group B'	0.011000000000000
+47678	species	976|200643|171549|815|816|47678	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides caccae	0.010000000000000
+2763062	species	1239|186801|3085636|186803|841|2763062	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Roseburia|Roseburia rectibacter	0.010000000000000
+1297617	species	1239|186801|186802|1392389|1297617	Bacillota|Clostridia|Eubacteriales|Intestinimonas|Intestinimonas butyriciproducens	0.010000000000000
+184912	species	1224|1236|91347|543|544|184912	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter sp. TSA-1	0.010000000000000
+2742626	species	1224|1236|91347|543|544|2742626	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter sp. RHB35-C21	0.010000000000000
+2844208	species	2731618|2731619|3420545|2946170|10663|2844208	Uroviricota|Caudoviricetes|Pantevenvirales|Straboviridae|Tequatrovirus|Tequatrovirus kaw	0.010000000000000
+328812	species	976|200643|171549|2005525|375288|328812	Bacteroidota|Bacteroidia|Bacteroidales|Tannerellaceae|Parabacteroides|Parabacteroides goldsteinii	0.010000000000000
+2844204	species	2731618|2731619|2731691|2842728|2844204	Uroviricota|Caudoviricetes|Drexlerviridae|Henuseptimavirus|Henuseptimavirus henu7	0.010000000000000
+2650158	species	976|200643|171549|815|816|2650158	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides luhongzhouii	0.010000000000000
+1613	species	1239|91061|186826|33958|2742598|1613	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Limosilactobacillus|Limosilactobacillus fermentum	0.009000000000000
+2714358	species	1239|186801|186802|216572|2892397|2714358	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Pusillibacter|Pusillibacter faecalis	0.009000000000000
+1920755	species	2731618|2731619|2842329|1920753|1920755	Uroviricota|Caudoviricetes|Schitoviridae|Gamaleyavirus|Gamaleyavirus APEC7	0.009000000000000
+2742675	species	1224|1236|91347|543|544|2742675	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter sp. RHBSTW-00986	0.009000000000000
+2732026	species	2731618|2731619|2731690|2732017|2732026	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus S116	0.008000000000000
+2732028	species	2731618|2731619|2731690|2732017|2732028	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus S126	0.008000000000000
+2845180	species	2731618|2731619|1623305|2845180	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus sv79201	0.008000000000000
+1316412	species	1239|91061|186826|1300|1301|1316412	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. HSISS3	0.008000000000000
+2845153	species	2731618|2731619|1623305|2845153	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus sv16802	0.008000000000000
+670	species	1224|1236|135623|641|662|670	Pseudomonadota|Gammaproteobacteria|Vibrionales|Vibrionaceae|Vibrio|Vibrio parahaemolyticus	0.008000000000000
+1492	species	1239|186801|186802|31979|1485|1492	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium butyricum	0.008000000000000
+158	species	203691|203692|3120456|2845253|157|158	Spirochaetota|Spirochaetia|Treponematales|Treponemataceae|Treponema|Treponema denticola	0.008000000000000
+2742677	species	1224|1236|91347|543|544|2742677	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter sp. RHBSTW-01013	0.008000000000000
+2845185	species	2731618|2731619|1623305|2845185	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus sv96401	0.008000000000000
+3060722	species	2731618|2731619|3680502|3044836|3060722	Uroviricota|Caudoviricetes|Mtkvariviridae|Suseptimavirus|Suseptimavirus IME267	0.008000000000000
+1520	species	1239|186801|186802|31979|1485|1520	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium beijerinckii	0.008000000000000
+2956060	species	2731618|2731619|1978007|2942963|2948785|2956060	Uroviricota|Caudoviricetes|Crassvirales|Crevaviridae|Kingevirus|Kingevirus communis	0.007000000000000
+33035	species	1239|186801|3085636|186803|572511|33035	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Blautia|Blautia producta	0.007000000000000
+2956046	species	2731618|2731619|1978007|2942965|2942979|2956046	Uroviricota|Caudoviricetes|Crassvirales|Steigviridae|Kahnovirus|Kahnovirus copri	0.007000000000000
+411486	species	1239|186801|186802|31979|1485|411486	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium sp. M62/1	0.007000000000000
+1343	species	1239|91061|186826|1300|1301|1343	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus vestibularis	0.007000000000000
+1871021	species	1239|186801|3085636|186803|1506553|1871021	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Lachnoclostridium|Lachnoclostridium phocaeense	0.007000000000000
+154046	species	1239|186801|3085636|186803|1649459|154046	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Hungatella|Hungatella hathewayi	0.007000000000000
+1509	species	1239|186801|186802|31979|1485|1509	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium sporogenes	0.007000000000000
+76860	species	1239|91061|186826|1300|1301|76860	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus constellatus	0.007000000000000
+2714355	species	1239|186801|186802|216572|2892396|2714355	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Vescimonas|Vescimonas coprocola	0.007000000000000
+762660	species	2731618|2731619|3420545|2946170|762660	Uroviricota|Caudoviricetes|Pantevenvirales|Straboviridae|Acinetobacter phage Ac42	0.007000000000000
+2650157	species	976|200643|171549|815|816|2650157	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides zhangwenhongii	0.007000000000000
+2683822	species	1224|1236|91347|543|544|2683822	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter sp. 172116965	0.007000000000000
+3431624	species	2731618|2731619|2733124|3431624	Uroviricota|Caudoviricetes|Phapecoctavirus|Phapecoctavirus schickermooser	0.007000000000000
+2843974	species	2731618|2731619|2843455|2843974	Uroviricota|Caudoviricetes|Sherbrookevirus|Sherbrookevirus CD4811	0.007000000000000
+1501392	species	976|200643|171549|2005519|1348911|1501392	Bacteroidota|Bacteroidia|Bacteroidales|Barnesiellaceae|Coprobacter|Coprobacter secundus	0.007000000000000
+225992	species	1224|28216|80840|80864|283|225992	Pseudomonadota|Betaproteobacteria|Burkholderiales|Comamonadaceae|Comamonas|Comamonas kerstersii	0.006000000000000
+2843966	species	2731618|2731619|2843367|2843966	Uroviricota|Caudoviricetes|Colneyvirus|Colneyvirus CDKM15	0.006000000000000
+2732033	species	2731618|2731619|2731690|2732017|2732033	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus SH9	0.006000000000000
+1598	species	1239|91061|186826|33958|2742598|1598	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Limosilactobacillus|Limosilactobacillus reuteri	0.006000000000000
+2845152	species	2731618|2731619|1623305|2845152	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus sv13W11L	0.006000000000000
+2844231	species	2731618|2731619|2731691|2732068|2844231	Uroviricota|Caudoviricetes|Drexlerviridae|Warwickvirus|Warwickvirus SLUR29	0.006000000000000
+363555	species	2731618|2731619|363555	Uroviricota|Caudoviricetes|Lactobacillus phage KC5a	0.006000000000000
+2955712	species	2731618|2731619|1978007|2942966|2942991|2955712	Uroviricota|Caudoviricetes|Crassvirales|Suoliviridae|Cohcovirus|Cohcovirus splanchnicus	0.006000000000000
+2845468	species	2731618|2731619|1623305|2845468	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus bIBBF12	0.006000000000000
+2733637	species	2731618|2731619|3420540|3424637|2732686|2733637	Uroviricota|Caudoviricetes|Autographivirales|Autotranscriptaviridae|Kayfunavirus|Kayfunavirus F	0.006000000000000
+2732022	species	2731618|2731619|2731690|2732017|2732022	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus ev329	0.006000000000000
+329854	species	976|200643|171549|815|816|329854	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides intestinalis	0.006000000000000
+2732034	species	2731618|2731619|2731690|2732017|2732034	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus STG2	0.006000000000000
+573	species	1224|1236|91347|543|570|573	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Klebsiella|Klebsiella pneumoniae	0.006000000000000
+751585	species	1239|186801|3085636|186803|33042|751585	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Coprococcus|Coprococcus sp. ART55/1	0.006000000000000
+2845425	species	2731618|2731619|1623305|2845425	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus MV10L	0.006000000000000
+1985305	species	2731618|2731619|3424631|1985303|1985305	Uroviricota|Caudoviricetes|Andersonviridae|Mooglevirus|Mooglevirus mordin	0.006000000000000
+2690380	species	1239|91061|186826|33958|1578|2690380	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus sp. JM1	0.006000000000000
+2732020	species	2731618|2731619|2731690|2732017|2732020	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus saus132	0.006000000000000
+45851	species	1239|186801|3085636|186803|3342669|45851	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Eshraghiella|Eshraghiella crossota	0.006000000000000
+2846085	species	2731618|2731619|2731690|2732017|2846085	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus ev23	0.006000000000000
+2086584	species	1239|186801|186802|2717089|2086584	Bacillota|Clostridia|Eubacteriales|Massilistercora|Massilistercora timonensis	0.005000000000000
+169679	species	1239|186801|186802|31979|1485|169679	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium saccharobutylicum	0.005000000000000
+1796616	species	1239|186801|3085636|186803|572511|1796616	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Blautia|Blautia pseudococcoides	0.005000000000000
+2732035	species	2731618|2731619|2731690|2732017|2732035	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus Sw2	0.005000000000000
+1522	species	1239|186801|186802|31979|1485|1522	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|[Clostridium] innocuum	0.005000000000000
+1529	species	1239|186801|186802|31979|1485|1529	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium cadaveris	0.005000000000000
+2816910	species	1239|91061|186826|1300|1357|2816910	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Lactococcus|Lactococcus sp. LG1267	0.005000000000000
+1776384	species	1239|186801|3082720|543314|1926556|1776384	Bacillota|Clostridia|Peptostreptococcales|Anaerovoracaceae|Emergencia|Emergencia timonensis	0.005000000000000
+387661	species	976|200643|171549|2005525|375288|387661	Bacteroidota|Bacteroidia|Bacteroidales|Tannerellaceae|Parabacteroides|Parabacteroides johnsonii	0.005000000000000
+2715212	species	976|200643|171549|815|816|2715212	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides faecium	0.005000000000000
+2845179	species	2731618|2731619|1623305|2845179	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus sv66901	0.005000000000000
+508451	species	1239|91061|186826|33958|1578|508451	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus taiwanensis	0.005000000000000
+137838	species	1239|186801|186802|31979|1485|137838	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium neonatale	0.005000000000000
+195	species	29547|3031852|213849|72294|194|195	Campylobacterota|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter|Campylobacter coli	0.005000000000000
+2733641	species	2731618|2731619|3420540|3424637|2732686|2733641	Uroviricota|Caudoviricetes|Autographivirales|Autotranscriptaviridae|Kayfunavirus|Kayfunavirus LM33P1	0.005000000000000
+2494234	species	1224|28216|80840|995019|40544|2494234	Pseudomonadota|Betaproteobacteria|Burkholderiales|Sutterellaceae|Sutterella|Sutterella megalosphaeroides	0.005000000000000
+46503	species	976|200643|171549|2005525|375288|46503	Bacteroidota|Bacteroidia|Bacteroidales|Tannerellaceae|Parabacteroides|Parabacteroides merdae	0.005000000000000
+46867	species	1239|186801|186802|31979|1485|46867	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium chauvoei	0.005000000000000
+1396	species	1239|91061|1385|186817|1386|1396	Bacillota|Bacilli|Caryophanales|Bacillaceae|Bacillus|Bacillus cereus	0.005000000000000
+53442	species	1239|186801|186802|186806|1730|53442	Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Eubacterium|Eubacterium callanderi	0.005000000000000
+2993455	species	1239|91061|186826|33958|1578|2993455	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus isalae	0.005000000000000
+1504	species	1239|186801|186802|31979|1485|1504	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium septicum	0.005000000000000
+291644	species	976|200643|171549|815|816|291644	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides salyersiae	0.005000000000000
+328813	species	976|200643|171549|171550|239759|328813	Bacteroidota|Bacteroidia|Bacteroidales|Rikenellaceae|Alistipes|Alistipes onderdonkii	0.004000000000000
+1597	species	1239|91061|186826|33958|2759736|1597	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Lacticaseibacillus|Lacticaseibacillus paracasei	0.004000000000000
+2979871	species	1224|1236|91347|543|590|2979871	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Salmonella|Salmonella sp. 3C	0.004000000000000
+137591	species	1239|91061|186826|33958|46255|137591	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Weissella|Weissella cibaria	0.004000000000000
+1311	species	1239|91061|186826|1300|1301|1311	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus agalactiae	0.004000000000000
+28026	species	201174|1760|85004|31953|1678|28026	Actinomycetota|Actinomycetes|Bifidobacteriales|Bifidobacteriaceae|Bifidobacterium|Bifidobacterium pseudocatenulatum	0.004000000000000
+3428094	species	2732408|2732506|464095|12058|586418|3428094	Pisuviricota|Pisoniviricetes|Picornavirales|Picornaviridae|Cosavirus|Cosavirus asiani	0.004000000000000
+394958	species	1239|186801|186802|31979|1485|394958	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium taeniosporum	0.004000000000000
+36745	species	1239|186801|186802|31979|1485|36745	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium saccharoperbutylacetonicum	0.004000000000000
+1982626	species	1239|526524|526525|2810280|2678885|1982626	Bacillota|Erysipelotrichia|Erysipelotrichales|Coprobacillaceae|Faecalibacillus|Faecalibacillus intestinalis	0.004000000000000
+31532	species	2731618|2731619|1623305|31532	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus sk1	0.004000000000000
+2843984	species	2731618|2731619|2843455|2843984	Uroviricota|Caudoviricetes|Sherbrookevirus|Sherbrookevirus MMP04	0.004000000000000
+2732032	species	2731618|2731619|2731690|2732017|2732032	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus seafire	0.004000000000000
+2845476	species	2731618|2731619|1623305|2845476	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus p272	0.004000000000000
+2763670	species	1239|186801|3085636|186803|2944152|2763670	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Wujia|Wujia chipingensis	0.004000000000000
+33043	species	1239|186801|3085636|186803|33042|33043	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Coprococcus|Coprococcus eutactus	0.004000000000000
+94869	species	1239|186801|186802|31979|1485|94869	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium gasigenes	0.004000000000000
+2845149	species	2731618|2731619|186532|2845149	Uroviricota|Caudoviricetes|Ceduovirus|Ceduovirus cv05802	0.004000000000000
+1639133	species	1224|1236|91347|543|544|1639133	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter portucalensis	0.004000000000000
+1247113	species	2732408|2732507|2732551|39733|1247113	Pisuviricota|Stelpaviricetes|Stellavirales|Astroviridae|Astrovirus VA4	0.004000000000000
+2845471	species	2731618|2731619|186532|2845471	Uroviricota|Caudoviricetes|Ceduovirus|Ceduovirus blBB94p4	0.004000000000000
+39485	species	1239|186801|3085636|186803|28050|39485	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Lachnospira|Lachnospira eligens	0.004000000000000
+2528203	species	976|200643|171549|815|816|2528203	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides sp. A1C1	0.003000000000000
+2992805	species	1239|186801|186802|31979|1485|2992805	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium sp. LQ25	0.003000000000000
+2843978	species	2731618|2731619|2843455|2843978	Uroviricota|Caudoviricetes|Sherbrookevirus|Sherbrookevirus CDHM13	0.003000000000000
+3028070	species	1239|186801|3085636|186803|3076670|3028070	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Claveliimonas|Claveliimonas bilis	0.003000000000000
+1921555	species	2731618|2731619|1921553|1921555	Uroviricota|Caudoviricetes|Seuratvirus|Seuratvirus seurat	0.003000000000000
+2823317	species	1239|909932|1843488|909930|33024|2823317	Bacillota|Negativicutes|Acidaminococcales|Acidaminococcaceae|Phascolarctobacterium|Phascolarctobacterium sp. Marseille-Q4147	0.003000000000000
+2320868	species	1239|186801|186802|31979|1485|2320868	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium manihotivorum	0.003000000000000
+182773	species	1239|186801|186802|31979|1485|182773	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium isatidis	0.003000000000000
+44008	species	1239|91061|186826|81852|1350|44008	Bacillota|Bacilli|Lactobacillales|Enterococcaceae|Enterococcus|Enterococcus cecorum	0.003000000000000
+2610895	species	1239|186801|186802|1918454|2610895	Bacillota|Clostridia|Eubacteriales|Flintibacter|Flintibacter sp. KGMB00164	0.003000000000000
+36845	species	1239|186801|186802|31979|1485|36845	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium intestinale	0.003000000000000
+491003	species	2731618|2731619|2731690|2732017|491003	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus EPS7	0.003000000000000
+1584	species	1239|91061|186826|33958|1578|1584	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus delbrueckii	0.003000000000000
+1316408	species	1239|91061|186826|1300|1301|1316408	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. HSISM1	0.003000000000000
+2785025	species	1239|186801|3085636|186803|3024823|2785025	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaeromicropila|Anaeromicropila herbilytica	0.003000000000000
+1712675	species	1239|526524|526525|2810281|191303|1712675	Bacillota|Erysipelotrichia|Erysipelotrichales|Turicibacteraceae|Turicibacter|Turicibacter sp. H121	0.003000000000000
+155866	species	1239|91061|186826|33958|46255|155866	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Weissella|Weissella soli	0.003000000000000
+2109686	species	1239|186801|186802|3085642|580596|2109686	Bacillota|Clostridia|Eubacteriales|Butyricicoccaceae|Butyricicoccus|Butyricicoccus sp. GAM44	0.003000000000000
+244366	species	1224|1236|91347|543|570|244366	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Klebsiella|Klebsiella variicola	0.003000000000000
+2845186	species	2731618|2731619|1623305|2845186	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus sv96403	0.003000000000000
+2845435	species	2731618|2731619|1623305|2845435	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus P475	0.003000000000000
+187327	species	1239|909932|1843488|909930|904|187327	Bacillota|Negativicutes|Acidaminococcales|Acidaminococcaceae|Acidaminococcus|Acidaminococcus intestini	0.003000000000000
+641107	species	1239|186801|186802|31979|1485|641107	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium sp. DL-VIII	0.003000000000000
+1540099	species	2731618|2731619|2731690|2732017|1540099	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus stitch	0.003000000000000
+2846082	species	2731618|2731619|2731690|2732017|2846082	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus ev129	0.003000000000000
+2841528	species	1239|186801|186802|186806|1730|2841528	Bacillota|Clostridia|Eubacteriales|Eubacteriaceae|Eubacterium|Eubacterium sp. MSJ-33	0.003000000000000
+1911010	species	2731618|2731619|3424670|1910992|1911010	Uroviricota|Caudoviricetes|Sarkviridae|Kagunavirus|Kagunavirus K1H	0.003000000000000
+387090	species	976|200643|171549|815|909656|387090	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Phocaeicola|Phocaeicola coprophilus	0.003000000000000
+2846124	species	2731618|2731619|2731690|2732017|2846124	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus atrejo	0.003000000000000
+1318	species	1239|91061|186826|1300|1301|1318	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus parasanguinis	0.003000000000000
+1505	species	1239|186801|3082720|186804|1849822|1505	Bacillota|Clostridia|Peptostreptococcales|Peptostreptococcaceae|Paraclostridium|Paraclostridium sordellii	0.003000000000000
+84030	species	1239|186801|3085636|186803|2719231|84030	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Lacrimispora|Lacrimispora saccharolytica	0.003000000000000
+89152	species	1239|186801|3082720|186804|2743582|89152	Bacillota|Clostridia|Peptostreptococcales|Peptostreptococcaceae|Peptacetobacter|Peptacetobacter hiranonis	0.003000000000000
+438033	species	1239|186801|186802|216572|1263|438033	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminococcus|Ruminococcus gauvreauii	0.003000000000000
+1550024	species	1239|186801|186802|216572|1905344|1550024	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruthenibacterium|Ruthenibacterium lactatiformans	0.003000000000000
+87883	species	1224|28216|80840|119060|32008|87883	Pseudomonadota|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia|Burkholderia multivorans	0.003000000000000
+1985341	species	2731618|2731619|3420545|2946170|1985329|1985341	Uroviricota|Caudoviricetes|Pantevenvirales|Straboviridae|Moonvirus|Moonvirus merlin	0.003000000000000
+29375	species	1239|186801|3085636|186803|2719231|29375	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Lacrimispora|Lacrimispora xylanolytica	0.003000000000000
+69710	species	203691|203692|3120456|2845253|157|69710	Spirochaetota|Spirochaetia|Treponematales|Treponemataceae|Treponema|Treponema vincentii	0.003000000000000
+2732021	species	2731618|2731619|2731690|2732017|2732021	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus ev123	0.002000000000000
+197614	species	1239|91061|186826|1300|1301|197614	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus pasteurianus	0.002000000000000
+1160721	species	1239|186801|186802|216572|1263|1160721	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminococcus|Ruminococcus bicirculans (ex Wegman et al. 2014)	0.002000000000000
+2846129	species	2731618|2731619|2731690|2732017|2846129	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus bombadil	0.002000000000000
+704125	species	1239|186801|186802|31979|1485|704125	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium gelidum	0.002000000000000
+2610896	species	1239|91061|186826|1300|1301|2610896	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. LPB0220	0.002000000000000
+1633	species	1239|91061|186826|33958|2742598|1633	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Limosilactobacillus|Limosilactobacillus vaginalis	0.002000000000000
+2733991	species	2731618|2731619|2731690|187218|2733991	Uroviricota|Caudoviricetes|Demerecviridae|Tequintavirus|Tequintavirus SP3	0.002000000000000
+2068655	species	1239|186801|3085636|186803|2888809|2068655	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Novisyntrophococcus|Novisyntrophococcus fermenticellae	0.002000000000000
+2846126	species	2731618|2731619|2731690|2732017|2846126	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus bastian	0.002000000000000
+437897	species	1239|909932|909929|1843491|158846|437897	Bacillota|Negativicutes|Selenomonadales|Selenomonadaceae|Megamonas|Megamonas funiformis	0.002000000000000
+39803	species	2732407|2842243|2842247|2842319|2842995|39803	Lenarviricota|Leviviricetes|Norzivirales|Fiersviridae|Qubevirus|Qubevirus durum	0.002000000000000
+1155388	species	1239|186801|186802|31979|1485|1155388	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium sp. C1	0.002000000000000
+2845433	species	2731618|2731619|2843430|2845433	Uroviricota|Caudoviricetes|Nevevirus|Nevevirus P162	0.002000000000000
+2892442	species	1224|1236|72274|135621|286|2892442	Pseudomonadota|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas sp. CIP-10	0.002000000000000
+831	species	1239|186801|3085636|186803|830|831	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Butyrivibrio|Butyrivibrio fibrisolvens	0.002000000000000
+621	species	1224|1236|91347|543|620|621	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Shigella|Shigella boydii	0.002000000000000
+1501	species	1239|186801|186802|31979|1485|1501	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium pasteurianum	0.002000000000000
+2726954	species	1239|186801|186802|31979|1266|2726954	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Sarcina|Candidatus Sarcina troglodytae	0.002000000000000
+2846132	species	2731618|2731619|2731690|2732017|2846132	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus fuchur	0.002000000000000
+2763669	species	1239|186801|3085636|186803|2944195|2763669	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Qiania|Qiania dongpingensis	0.002000000000000
+2560544	species	2731618|2731619|3420545|2946170|1985328|2560544	Uroviricota|Caudoviricetes|Pantevenvirales|Straboviridae|Slopekvirus|Klebsiella virus PMBT1	0.002000000000000
+105841	species	1239|186801|3085636|186803|207244|105841	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerostipes|Anaerostipes caccae	0.002000000000000
+1913685	species	2731618|2731619|3420545|2946170|1913654|1913685	Uroviricota|Caudoviricetes|Pantevenvirales|Straboviridae|Gaprivervirus|Gaprivervirus vr25	0.002000000000000
+29252	species	2731618|2731619|2946167|2732978|29252	Uroviricota|Caudoviricetes|Peduoviridae|Eganvirus|Eganvirus ev186	0.002000000000000
+1307	species	1239|91061|186826|1300|1301|1307	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus suis	0.002000000000000
+2845407	species	2731618|2731619|1623305|2845407	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus caseusJM1	0.002000000000000
+82135	species	201174|84998|84999|1643824|2767327|82135	Actinomycetota|Coriobacteriia|Coriobacteriales|Atopobiaceae|Fannyhessea|Fannyhessea vaginae	0.002000000000000
+1727145	species	1239|186801|3085636|186803|1843210|1727145	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerocolumna|Anaerocolumna chitinilytica	0.002000000000000
+1805478	species	201174|84998|84999|1643824|133925|1805478	Actinomycetota|Coriobacteriia|Coriobacteriales|Atopobiaceae|Olsenella|Olsenella timonensis	0.002000000000000
+2714353	species	1239|186801|186802|216572|2892396|2714353	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Vescimonas|Vescimonas fastidiosa	0.002000000000000
+1531	species	1239|186801|3085636|186803|2719313|1531	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Enterocloster|Enterocloster clostridioformis	0.002000000000000
+2780922	species	1239|186801|186802|216572|2842531|2780922	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Solibaculum|Solibaculum mannosilyticum	0.002000000000000
+1985342	species	2731618|2731619|3420545|2946170|1985329|1985342	Uroviricota|Caudoviricetes|Pantevenvirales|Straboviridae|Moonvirus|Moonvirus moon	0.002000000000000
+1748967	species	1224|1236|91347|543|544|1748967	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter cronae	0.002000000000000
+37734	species	1239|91061|186826|81852|1350|37734	Bacillota|Bacilli|Lactobacillales|Enterococcaceae|Enterococcus|Enterococcus casseliflavus	0.002000000000000
+3039116	species	1239|186801|3085636|186803|1843210|3039116	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerocolumna|Anaerocolumna sp. AGMB13025	0.002000000000000
+1303	species	1239|91061|186826|1300|1301|1303	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus oralis	0.002000000000000
+37554	species	2731618|2731619|2842574|37554	Uroviricota|Caudoviricetes|Byrnievirus|Byrnievirus HK97	0.002000000000000
+1590	species	1239|91061|186826|33958|2767842|1590	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Lactiplantibacillus|Lactiplantibacillus plantarum	0.002000000000000
+2763056	species	1239|186801|186802|216572|459786|2763056	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Oscillibacter|Oscillibacter hominis	0.002000000000000
+651	species	1224|1236|135624|84642|642|651	Pseudomonadota|Gammaproteobacteria|Aeromonadales|Aeromonadaceae|Aeromonas|Aeromonas media	0.002000000000000
+666	species	1224|1236|135623|641|662|666	Pseudomonadota|Gammaproteobacteria|Vibrionales|Vibrionaceae|Vibrio|Vibrio cholerae	0.002000000000000
+544645	species	976|200643|171549|1853231|574697|544645	Bacteroidota|Bacteroidia|Bacteroidales|Odoribacteraceae|Butyricimonas|Butyricimonas virosa	0.002000000000000
+1416334	species	2731618|2731619|1416334	Uroviricota|Caudoviricetes|Lactobacillus phage phi jlb1	0.002000000000000
+1807141	species	976|117743|200644|2762318|59732|1807141	Bacteroidota|Flavobacteriia|Flavobacteriales|Weeksellaceae|Chryseobacterium|Chryseobacterium panacisoli	0.002000000000000
+67827	species	1224|1236|91347|543|544|67827	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter werkmanii	0.002000000000000
+2583452	species	1239|526524|526525|128827|2749267|2583452	Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Amedibacterium|Amedibacterium intestinale	0.002000000000000
+1314	species	1239|91061|186826|1300|1301|1314	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus pyogenes	0.002000000000000
+2093856	species	976|200643|171549|1853231|574697|2093856	Bacteroidota|Bacteroidia|Bacteroidales|Odoribacteraceae|Butyricimonas|Butyricimonas faecalis	0.002000000000000
+2913614	species	976|200643|171549|171552|838|2913614	Bacteroidota|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|Prevotella communis	0.002000000000000
+3059987	species	2731618|2731619|3152113|3044711|3059987	Uroviricota|Caudoviricetes|Chimalliviridae|Eowynvirus|Eowynvirus eowyn	0.002000000000000
+2755405	species	976|200643|171549|815|816|2755405	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides sp. CACC 737	0.002000000000000
+185007	species	1239|186801|3085636|186803|46205|185007	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Pseudobutyrivibrio|Pseudobutyrivibrio xylanivorans	0.002000000000000
+43305	species	1239|186801|3085636|186803|830|43305	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Butyrivibrio|Butyrivibrio proteoclasticus	0.002000000000000
+1326	species	1239|91061|186826|1300|1301|1326	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus acidominimus	0.002000000000000
+1871022	species	201174|84998|84999|1643824|2082587|1871022	Actinomycetota|Coriobacteriia|Coriobacteriales|Atopobiaceae|Parolsenella|Parolsenella massiliensis	0.002000000000000
+1216932	species	1239|186801|186802|31979|1485|1216932	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium bornimense	0.002000000000000
+2003188	species	201174|84998|84999|1643824|2082587|2003188	Actinomycetota|Coriobacteriia|Coriobacteriales|Atopobiaceae|Parolsenella|Parolsenella catena	0.002000000000000
+544580	species	201174|1760|2037|2049|1654|544580	Actinomycetota|Actinomycetes|Actinomycetales|Actinomycetaceae|Actinomyces|Actinomyces oris	0.002000000000000
+28119	species	976|200643|171549|815|816|28119	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides zoogleoformans	0.002000000000000
+1930509	species	2732408|2732506|464095|2219049|1930509	Pisuviricota|Pisoniviricetes|Picornavirales|Husavirus|Husavirus sp.	0.002000000000000
+376805	species	976|200643|171549|815|909656|376805	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Phocaeicola|Phocaeicola salanitronis	0.002000000000000
+1490	species	1239|186801|3082720|186804|1849822|1490	Bacillota|Clostridia|Peptostreptococcales|Peptostreptococcaceae|Paraclostridium|Paraclostridium bifermentans	0.002000000000000
+227942	species	1239|91061|186826|33958|2742598|227942	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Limosilactobacillus|Limosilactobacillus gastricus	0.002000000000000
+2017081	species	2732416|2732423|2732536|39724|2017081	Cressdnaviricota|Arfiviricetes|Cirlivirales|Circoviridae|Human fecal virus Jorvi2	0.002000000000000
+2742657	species	1224|1236|91347|543|544|2742657	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter sp. RHBSTW-00599	0.002000000000000
+29341	species	1239|186801|186802|31979|1485|29341	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium argentinense	0.002000000000000
+2930219	species	1239|186801|186802|31979|1485|2930219	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium sp. BJN0001	0.002000000000000
+2011088	species	2732410|2732411|2732094|10860|2732876|2011088	Hofneiviricota|Faserviricetes|Tubulavirales|Inoviridae|Psecadovirus|Psecadovirus PSH1	0.002000000000000
+2732027	species	2731618|2731619|2731690|2732017|2732027	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus S124	0.002000000000000
+221027	species	203691|203692|3120456|2845253|157|221027	Spirochaetota|Spirochaetia|Treponematales|Treponemataceae|Treponema|Treponema putidum	0.002000000000000
+333367	species	1239|186801|3085636|186803|2719313|333367	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Enterocloster|Enterocloster asparagiformis	0.002000000000000
+3432351	species	2731618|2731619|1921544|3432351	Uroviricota|Caudoviricetes|Septimatrevirus|Septimatrevirus DLP1	0.002000000000000
+158836	species	1224|1236|91347|543|547|158836	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Enterobacter|Enterobacter hormaechei	0.002000000000000
+1334	species	1239|91061|186826|1300|1301|1334	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus dysgalactiae	0.002000000000000
+1229621	species	1239|186801|3085636|186803|207244|1229621	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerostipes|Anaerostipes rhamnosivorans	0.002000000000000
+287	species	1224|1236|72274|135621|286|287	Pseudomonadota|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas aeruginosa	0.002000000000000
+2785531	species	976|200643|171549|815|816|2785531	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides sp. HF-162	0.002000000000000
+2732029	species	2731618|2731619|2731690|2732017|2732029	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus S132	0.002000000000000
+214851	species	1239|186801|186802|216572|292632|214851	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Subdoligranulum|Subdoligranulum variabile	0.002000000000000
+384636	species	1239|186801|3085636|186803|2719231|384636	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Lacrimispora|Lacrimispora xylanisolvens	0.002000000000000
+2843980	species	2731618|2731619|1912144|2843980	Uroviricota|Caudoviricetes|Lubbockvirus|Lubbockvirus CDHM19	0.002000000000000
+2764325	species	1239|526524|526525|128827|3681505|2764325	Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Hoskinsella|Hoskinsella hominis	0.001000000000000
+907	species	1239|909932|1843489|31977|906|907	Bacillota|Negativicutes|Veillonellales|Veillonellaceae|Megasphaera|Megasphaera elsdenii	0.001000000000000
+246787	species	976|200643|171549|815|816|246787	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides cellulosilyticus	0.001000000000000
+1580	species	1239|91061|186826|33958|2767886|1580	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Levilactobacillus|Levilactobacillus brevis	0.001000000000000
+1389960	species	1239|91061|1385|33986|1389960	Bacillota|Bacilli|Caryophanales|Exiguobacterium|Exiguobacterium sp. S3-2	0.001000000000000
+433286	species	1239|186801|3085636|186803|1843210|433286	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerocolumna|Anaerocolumna cellulosilytica	0.001000000000000
+113107	species	1239|91061|186826|1300|1301|113107	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus australis	0.001000000000000
+2845189	species	2731618|2731619|2843351|2845189	Uroviricota|Caudoviricetes|Audreyjarvisvirus|Audreyjarvisvirus AM4	0.001000000000000
+2731377	species	1239|186801|186802|1491775|2838170|2731377	Bacillota|Clostridia|Eubacteriales|Proteinivoracaceae|Alkalicella|Alkalicella caledoniensis	0.001000000000000
+1513	species	1239|186801|186802|31979|1485|1513	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium tetani	0.001000000000000
+1115758	species	1239|186801|3082720|186804|1501226|1115758	Bacillota|Clostridia|Peptostreptococcales|Peptostreptococcaceae|Romboutsia|Romboutsia ilealis	0.001000000000000
+36835	species	1239|186801|3085636|186803|1506577|36835	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Tyzzerella|[Clostridium] colinum	0.001000000000000
+1156431	species	1239|91061|186826|1300|1301|1156431	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus ilei	0.001000000000000
+1734049	species	1239|186801|3082720|3118656|1890059|1734049	Bacillota|Clostridia|Peptostreptococcales|Natronincolaceae|Serpentinicella|Serpentinicella alkaliphila	0.001000000000000
+84022	species	1239|186801|3082720|3118656|3685825|84022	Bacillota|Clostridia|Peptostreptococcales|Natronincolaceae|Andreesenella|Andreesenella acetica	0.001000000000000
+2734146	species	2731618|2731619|2733134|2734146	Uroviricota|Caudoviricetes|Taranisvirus|Taranisvirus taranis	0.001000000000000
+2742601	species	1239|91061|186826|33958|2742598|2742601	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Limosilactobacillus|Limosilactobacillus portuensis	0.001000000000000
+2734248	species	2731618|2731619|2733190|2734248	Uroviricota|Caudoviricetes|Lughvirus|Lughvirus lugh	0.001000000000000
+2845474	species	2731618|2731619|1623305|2845474	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus jm2	0.001000000000000
+1465	species	1239|91061|1385|186822|55080|1465	Bacillota|Bacilli|Caryophanales|Paenibacillaceae|Brevibacillus|Brevibacillus laterosporus	0.001000000000000
+1985722	species	2731618|2731619|3420540|3424637|1985720|1985722	Uroviricota|Caudoviricetes|Autographivirales|Autotranscriptaviridae|Przondovirus|Przondovirus K30	0.001000000000000
+2871165	species	976|117743|200644|49546|237|2871165	Bacteroidota|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Flavobacterium|Flavobacterium sp. CHNK8	0.001000000000000
+3036126	species	1239|186801|3082720|186804|214904|3036126	Bacillota|Clostridia|Peptostreptococcales|Peptostreptococcaceae|Tepidibacter|Tepidibacter hydrothermalis	0.001000000000000
+614	species	1224|1236|91347|1903411|613|614	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Yersiniaceae|Serratia|Serratia liquefaciens	0.001000000000000
+40545	species	1224|28216|80840|995019|40544|40545	Pseudomonadota|Betaproteobacteria|Burkholderiales|Sutterellaceae|Sutterella|Sutterella wadsworthensis	0.001000000000000
+1747	species	201174|1760|85009|31957|1912216|1747	Actinomycetota|Actinomycetes|Propionibacteriales|Propionibacteriaceae|Cutibacterium|Cutibacterium acnes	0.001000000000000
+1604	species	1239|91061|186826|33958|1578|1604	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus amylovorus	0.001000000000000
+2488810	species	1239|186801|186802|216572|1508657|2488810	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Ruminiclostridium|Ruminiclostridium herbifermentans	0.001000000000000
+492670	species	1239|91061|1385|186817|1386|492670	Bacillota|Bacilli|Caryophanales|Bacillaceae|Bacillus|Bacillus velezensis	0.001000000000000
+29348	species	1239|526524|526525|2810280|3025755|29348	Bacillota|Erysipelotrichia|Erysipelotrichales|Coprobacillaceae|Thomasclavelia|Thomasclavelia spiroformis	0.001000000000000
+3052041	species	2732415|2732422|2732534|10780|1507401|3052041	Cossaviricota|Quintoviricetes|Piccovirales|Parvoviridae|Bocaparvovirus|Bocaparvovirus primate2	0.001000000000000
+2734156	species	2731618|2731619|3424659|2733141|2734156	Uroviricota|Caudoviricetes|Lindbergviridae|Wifcevirus|Wifcevirus WFC	0.001000000000000
+2748764	species	2731618|2731619|186794|2748764	Uroviricota|Caudoviricetes|Lederbergvirus|Lederbergvirus HK620	0.001000000000000
+328814	species	976|200643|171549|171550|239759|328814	Bacteroidota|Bacteroidia|Bacteroidales|Rikenellaceae|Alistipes|Alistipes shahii	0.001000000000000
+1499973	species	1224|1236|91347|543|561|1499973	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Escherichia|Escherichia marmotae	0.001000000000000
+2894156	species	201174|84998|84999|3153719|2995122|2894156	Actinomycetota|Coriobacteriia|Coriobacteriales|Kribbibacteriaceae|Leptogranulimonas|Leptogranulimonas caecicola	0.001000000000000
+2546350	species	1224|1236|91347|543|544|2546350	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter arsenatis	0.001000000000000
+2846098	species	2731618|2731619|2731690|2732017|2846098	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus SB13	0.001000000000000
+3427815	species	2731618|2731619|2731689|2732960|3427815	Uroviricota|Caudoviricetes|Chaseviridae|Carltongylesvirus|Carltongylesvirus SKA49	0.001000000000000
+2845163	species	2731618|2731619|1623305|2845163	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus sv3R16S	0.001000000000000
+1623	species	1239|91061|186826|33958|2767887|1623	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Ligilactobacillus|Ligilactobacillus ruminis	0.001000000000000
+33871	species	201174|84998|84999|84107|33870|33871	Actinomycetota|Coriobacteriia|Coriobacteriales|Coriobacteriaceae|Coriobacterium|Coriobacterium glomerans	0.001000000000000
+2843956	species	2731618|2731619|3420545|2946170|2842979|2843956	Uroviricota|Caudoviricetes|Pantevenvirales|Straboviridae|Pseudotevenvirus|Pseudotevenvirus miller	0.001000000000000
+147802	species	1239|91061|186826|33958|1578|147802	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus iners	0.001000000000000
+1118202	species	976|117743|200644|2762318|1433995|1118202	Bacteroidota|Flavobacteriia|Flavobacteriales|Weeksellaceae|Cruoricaptor|Cruoricaptor ignavus	0.001000000000000
+1280	species	1239|91061|1385|90964|1279|1280	Bacillota|Bacilli|Caryophanales|Staphylococcaceae|Staphylococcus|Staphylococcus aureus	0.001000000000000
+53346	species	1239|91061|186826|81852|1350|53346	Bacillota|Bacilli|Lactobacillales|Enterococcaceae|Enterococcus|Enterococcus mundtii	0.001000000000000
+44935	species	1224|1236|135619|28256|3137766|44935	Pseudomonadota|Gammaproteobacteria|Oceanospirillales|Halomonadaceae|Vreelandella|Vreelandella venusta	0.001000000000000
+1619153	species	1239|91061|1385|186822|329857|1619153	Bacillota|Bacilli|Caryophanales|Paenibacillaceae|Cohnella|Cohnella sp. LGH	0.001000000000000
+2846102	species	2731618|2731619|2731690|2732017|2846102	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus SE24	0.001000000000000
+3060012	species	2731618|2731619|2842329|1920753|3060012	Uroviricota|Caudoviricetes|Schitoviridae|Gamaleyavirus|Gamaleyavirus U1g	0.001000000000000
+682382	species	2732408|2732507|2732551|39733|249588|682382	Pisuviricota|Stelpaviricetes|Stellavirales|Astroviridae|Mamastrovirus|HMO Astrovirus A	0.001000000000000
+2685834	species	976|200643|171549|2005525|375288|2685834	Bacteroidota|Bacteroidia|Bacteroidales|Tannerellaceae|Parabacteroides|Parabacteroides chongii	0.001000000000000
+1363	species	1239|91061|186826|1300|1357|1363	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Lactococcus|Lactococcus garvieae	0.001000000000000
+1519	species	1239|186801|186802|31979|1485|1519	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium tyrobutyricum	0.001000000000000
+84135	species	1239|91061|1385|539738|1378|84135	Bacillota|Bacilli|Caryophanales|Gemellaceae|Gemella|Gemella sanguinis	0.001000000000000
+2986838	species	976|117743|200644|49546|237|2986838	Bacteroidota|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Flavobacterium|Flavobacterium sp. N502540	0.001000000000000
+2763068	species	1239|91061|186826|1300|1301|2763068	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. NSJ-72	0.001000000000000
+143361	species	1239|186801|3082720|3118655|44259|143361	Bacillota|Clostridia|Peptostreptococcales|Filifactoraceae|Filifactor|Filifactor alocis	0.001000000000000
+2086585	species	1239|186801|186802|3047432|3047433|2086585	Bacillota|Clostridia|Eubacteriales|Maliibacteriaceae|Maliibacterium|Maliibacterium massiliense	0.001000000000000
+28111	species	976|200643|171549|815|816|28111	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides eggerthii	0.001000000000000
+2584944	species	1224|28216|80840|995019|40544|2584944	Pseudomonadota|Betaproteobacteria|Burkholderiales|Sutterellaceae|Sutterella|Sutterella faecalis	0.001000000000000
+283734	species	1239|91061|1385|90964|1279|283734	Bacillota|Bacilli|Caryophanales|Staphylococcaceae|Staphylococcus|Staphylococcus pseudintermedius	0.001000000000000
+1579	species	1239|91061|186826|33958|1578|1579	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus acidophilus	0.001000000000000
+2843318	species	1239|186801|186802|31979|1485|2843318	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium sp. CF011	0.001000000000000
+36839	species	1239|186801|186802|31979|1485|36839	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium felsineum	0.001000000000000
+1542	species	1239|186801|186802|31979|1485|1542	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium novyi	0.001000000000000
+35703	species	1224|1236|91347|543|544|35703	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter amalonaticus	0.001000000000000
+54736	species	1224|1236|91347|543|590|54736	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Salmonella|Salmonella bongori	0.001000000000000
+1702221	species	1239|526524|526525|128827|1729679|1702221	Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Faecalibaculum|Faecalibaculum rodentium	0.001000000000000
+1028752	species	1224|1236|135622|267890|22|1028752	Pseudomonadota|Gammaproteobacteria|Alteromonadales|Shewanellaceae|Shewanella|Shewanella aestuarii	0.001000000000000
+1244531	species	29547|3031852|213849|72294|194|1244531	Campylobacterota|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter|Campylobacter iguaniorum	0.001000000000000
+1686	species	201174|1760|85004|31953|1678|1686	Actinomycetota|Actinomycetes|Bifidobacteriales|Bifidobacteriaceae|Bifidobacterium|Bifidobacterium catenulatum	0.001000000000000
+712623	species	1239|91061|186826|1300|1301|712623	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. oral taxon 061	0.001000000000000
+2560545	species	2731618|2731619|2560086|2560545	Uroviricota|Caudoviricetes|Alcyoneusvirus|Alcyoneusvirus RaK2	0.001000000000000
+1970093	species	1239|186801|186802|31979|1485|1970093	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium sp. 001	0.001000000000000
+2917727	species	1224|28211|356|82115|379|2917727	Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Rhizobiaceae|Rhizobium|Rhizobium sp. C104	0.001000000000000
+139871	species	2731618|2731619|139871	Uroviricota|Caudoviricetes|Lactobacillus prophage Lj771	0.001000000000000
+1563222	species	1224|1236|91347|543|544|1563222	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter pasteurii	0.001000000000000
+2929796	species	1239|91061|1385|186817|400634|2929796	Bacillota|Bacilli|Caryophanales|Bacillaceae|Lysinibacillus|Lysinibacillus sp. PLM2	0.001000000000000
+1278232	species	1239|1737404|1737405|2992719|1354809|1278232	Bacillota|Tissierellia|Tissierellales|Tepidimicrobiaceae|Keratinibaculum|Keratinibaculum paraultunense	0.001000000000000
+1336	species	1239|91061|186826|1300|1301|1336	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus equi	0.001000000000000
+264636	species	544448|31969|186329|2146|2147|264636	Mycoplasmatota|Mollicutes|Acholeplasmatales|Acholeplasmataceae|Acholeplasma|Acholeplasma hippikon	0.001000000000000
+564	species	1224|1236|91347|543|561|564	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Escherichia|Escherichia fergusonii	0.001000000000000
+1716543	species	1239|186801|186802|31979|1485|1716543	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium thermarum	0.001000000000000
+1987940	species	2731618|2731619|3680502|680277|1987940	Uroviricota|Caudoviricetes|Mtkvariviridae|Kuravirus|Kuravirus NJ01	0.001000000000000
+652716	species	976|200643|171549|171552|838|652716	Bacteroidota|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|Prevotella sp. oral taxon 299	0.001000000000000
+2994078	species	1239|186801|186802|216572|2834348|2994078	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Caproicibacterium|Caproicibacterium sp. BJN0003	0.001000000000000
+2844227	species	2731618|2731619|2731691|2560145|2844227	Uroviricota|Caudoviricetes|Drexlerviridae|Hanrivervirus|Hanrivervirus PGN590	0.001000000000000
+66219	species	1239|186801|3085636|186803|1506553|66219	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Lachnoclostridium|Lachnoclostridium phytofermentans	0.001000000000000
+238834	species	1239|186801|186802|31979|1485|238834	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium estertheticum	0.001000000000000
+2709390	species	976|200643|171549|815|816|2709390	Bacteroidota|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides sp. ZJ-18	0.001000000000000
+185008	species	1239|186801|3085636|186803|830|185008	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Butyrivibrio|Butyrivibrio hungatei	0.001000000000000
+47770	species	1239|91061|186826|33958|1578|47770	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus crispatus	0.001000000000000
+208962	species	1224|1236|91347|543|561|208962	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Escherichia|Escherichia albertii	0.001000000000000
+2733874	species	2731618|2731619|3420540|3424637|110456|2733874	Uroviricota|Caudoviricetes|Autographivirales|Autotranscriptaviridae|Teseptimavirus|Teseptimavirus CICC80001	0.001000000000000
+2594495	species	1239|91061|186826|33958|1578|2594495	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus sp. PV034	0.001000000000000
+1493	species	1239|186801|186802|31979|1485|1493	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium cellulovorans	0.001000000000000
+29391	species	1239|91061|1385|539738|1378|29391	Bacillota|Bacilli|Caryophanales|Gemellaceae|Gemella|Gemella morbillorum	0.001000000000000
+1920758	species	2731618|2731619|2842329|1920753|1920758	Uroviricota|Caudoviricetes|Schitoviridae|Gamaleyavirus|Gamaleyavirus ECBP1	0.001000000000000
+1661	species	201174|1760|2037|2049|1069494|1661	Actinomycetota|Actinomycetes|Actinomycetales|Actinomycetaceae|Trueperella|Trueperella pyogenes	0.001000000000000
+1338	species	1239|91061|186826|1300|1301|1338	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus intermedius	0.001000000000000
+1208309	species	2732415|2732421|2732532|151341|1891715|1208309	Cossaviricota|Papovaviricetes|Sepolyvirales|Polyomaviridae|Deltapolyomavirus|Deltapolyomavirus decihominis	0.001000000000000
+2506420	species	1239|91061|186826|33958|2930384|2506420	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Periweissella|Periweissella cryptocerci	0.001000000000000
+1452732	species	1239|91061|1385|186822|44249|1452732	Bacillota|Bacilli|Caryophanales|Paenibacillaceae|Paenibacillus|Paenibacillus kyungheensis	0.001000000000000
+1884263	species	1239|909932|909929|1843491|970|1884263	Bacillota|Negativicutes|Selenomonadales|Selenomonadaceae|Selenomonas|Selenomonas sp. oral taxon 920	0.001000000000000
+2722820	species	201174|1760|2037|2049|1654|2722820	Actinomycetota|Actinomycetes|Actinomycetales|Actinomycetaceae|Actinomyces|Actinomyces faecalis	0.001000000000000
+1945587	species	2732412|10841|1910950|3701015|1910951|1945587	Phixviricota|Microviricetes|Bullavirales|Eubullaviridae|Alphatrevirus|Alphatrevirus ID32	0.001000000000000
+1379870	species	976|768503|768507|89373|107|1379870	Bacteroidota|Cytophagia|Cytophagales|Cytophagaceae|Spirosoma|Spirosoma radiotolerans	0.001000000000000
+97138	species	1239|186801|186802|31979|1485|97138	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium sp. MD294	0.001000000000000
+29370	species	1239|186801|3085636|186803|2719231|29370	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Lacrimispora|Lacrimispora sphenoides	0.001000000000000
+2672567	species	1239|91061|1385|186817|1386|2672567	Bacillota|Bacilli|Caryophanales|Bacillaceae|Bacillus|Bacillus aquiflavi	0.001000000000000
+2696063	species	1239|186801|3085636|186803|1843210|2696063	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaerocolumna|Anaerocolumna sedimenticola	0.001000000000000
+58231	species	203691|203692|3120456|2845253|157|58231	Spirochaetota|Spirochaetia|Treponematales|Treponemataceae|Treponema|Treponema medium	0.001000000000000
+1170562	species	1117|3028117|1161|2661849|1186|1170562	Cyanobacteriota|Cyanophyceae|Nostocales|Calotrichaceae|Calothrix|Calothrix sp. PCC 6303	0.001000000000000
+1041504	species	1239|186801|186802|31979|49082|1041504	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Candidatus Neoarthromitus|Candidatus Arthromitus sp. SFB-rat-Yit	0.001000000000000
+1501662	species	1239|91061|186826|1300|1301|1501662	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus parasuis	0.001000000000000
+33010	species	201174|1760|85009|31957|1912216|33010	Actinomycetota|Actinomycetes|Propionibacteriales|Propionibacteriaceae|Cutibacterium|Cutibacterium avidum	0.001000000000000
+2779518	species	1239|186801|3085636|186803|572511|2779518	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Blautia|Blautia liquoris	0.001000000000000
+1130723	species	976|117743|200644|49546|252356|1130723	Bacteroidota|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Maribacter|Maribacter aestuarii	0.001000000000000
+1515	species	1239|186801|3120394|3120654|35829|1515	Bacillota|Clostridia|Acetivibrionales|Acetivibrionaceae|Acetivibrio|Acetivibrio thermocellus	0.001000000000000
+2813371	species	1239|186801|3082720|186804|1505652|2813371	Bacillota|Clostridia|Peptostreptococcales|Peptostreptococcaceae|Terrisporobacter|Terrisporobacter hibernicus	0.001000000000000
+604330	species	201174|84998|84999|1643824|2847312|604330	Actinomycetota|Coriobacteriia|Coriobacteriales|Atopobiaceae|Parafannyhessea|Parafannyhessea umbonata	0.001000000000000
+480035	species	201174|1760|85007|85025|1817|480035	Actinomycetota|Actinomycetes|Mycobacteriales|Nocardiaceae|Nocardia|Nocardia wallacei	0.001000000000000
+144	species	203691|203692|136|1643685|138|144	Spirochaetota|Spirochaetia|Spirochaetales|Borreliaceae|Borrelia|Borrelia coriaceae	0.001000000000000
+3052187	species	2731618|2731619|2731690|2732017|3052187	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus R201	0.001000000000000
+2999116	species	1239|186801|186802|31979|1434026|2999116	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Oceanirhabdus|Oceanirhabdus sp. W0125-5	0.001000000000000
+1518574	species	2732408|2732507|2732551|39733|249588|1518574	Pisuviricota|Stelpaviricetes|Stellavirales|Astroviridae|Mamastrovirus|Burkina Faso astrovirus	0.001000000000000
+1424294	species	1239|186801|3082720|3118657|390805|1424294	Bacillota|Clostridia|Peptostreptococcales|Thermotaleaceae|Geosporobacter|Geosporobacter ferrireducens	0.001000000000000
+1498	species	1239|186801|186802|31979|1769729|1498	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Hathewaya|Hathewaya histolytica	0.001000000000000
+2487118	species	1239|526524|526525|128827|2679910|2487118	Bacillota|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Intestinibaculum|Intestinibaculum porci	0.001000000000000
+2724150	species	1239|186801|3082720|186804|1501226|2724150	Bacillota|Clostridia|Peptostreptococcales|Peptostreptococcaceae|Romboutsia|Romboutsia sp. CE17	0.001000000000000
+851	species	32066|203490|203491|203492|848|851	Fusobacteriota|Fusobacteriia|Fusobacteriales|Fusobacteriaceae|Fusobacterium|Fusobacterium nucleatum	0.001000000000000
+1930593	species	67812|2789201|1930593	Candidatus Omnitrophota|Candidatus Velamenicoccus|Candidatus Velamenicoccus archaeovorus	0.001000000000000
+3052716	species	2732415|2732422|2732534|10780|1506574|3052716	Cossaviricota|Quintoviricetes|Piccovirales|Parvoviridae|Protoparvovirus|Protoparvovirus primate3	0.001000000000000
+1407071	species	1224|1236|2887326|468|469|1407071	Pseudomonadota|Gammaproteobacteria|Moraxellales|Moraxellaceae|Acinetobacter|Acinetobacter sp. TGL-Y2	0.001000000000000
+1914201	species	2731618|2731619|3420545|2946170|10663|1914201	Uroviricota|Caudoviricetes|Pantevenvirales|Straboviridae|Tequatrovirus|Tequatrovirus e112	0.001000000000000
+76857	species	32066|203490|203491|203492|848|76857	Fusobacteriota|Fusobacteriia|Fusobacteriales|Fusobacteriaceae|Fusobacterium|Fusobacterium polymorphum	0.001000000000000
+2845449	species	2731618|2731619|1623305|2845449	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus A16	0.001000000000000
+133448	species	1224|1236|91347|543|544|133448	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter youngae	0.001000000000000
+367743	species	1239|91061|1385|186818|160795|367743	Bacillota|Bacilli|Caryophanales|Caryophanaceae|Ureibacillus|Ureibacillus thermophilus	0.001000000000000
+2779519	species	201174|84998|84999|1643824|2847307|2779519	Actinomycetota|Coriobacteriia|Coriobacteriales|Atopobiaceae|Thermophilibacter|Thermophilibacter immobilis	0.001000000000000
+1260	species	1239|1737404|1737405|1570339|150022|1260	Bacillota|Tissierellia|Tissierellales|Peptoniphilaceae|Finegoldia|Finegoldia magna	0.001000000000000
+2934315	species	1239|186801|3085636|186803|2997360|2934315	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Anaeropeptidivorans|Anaeropeptidivorans aminofermentans	0.001000000000000
+1494	species	1239|186801|186802|31979|1485|1494	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium cochlearium	0.001000000000000
+3428272	species	2731618|2731619|1623289|3428272	Uroviricota|Caudoviricetes|Dhillonvirus|Dhillonvirus opt212	0.001000000000000
+1488	species	1239|186801|186802|31979|1485|1488	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium acetobutylicum	0.001000000000000
+2845899	species	2732416|2732423|2732537|2169574|2169663|2845899	Cressdnaviricota|Arfiviricetes|Cremevirales|Smacoviridae|Porprismacovirus|Porprismacovirus humas3	0.001000000000000
+2014920	species	201174|1760|85011|2062|1883|2014920	Actinomycetota|Actinomycetes|Kitasatosporales|Streptomycetaceae|Streptomyces|Streptomyces capitiformicae	0.001000000000000
+1680	species	201174|1760|85004|31953|1678|1680	Actinomycetota|Actinomycetes|Bifidobacteriales|Bifidobacteriaceae|Bifidobacterium|Bifidobacterium adolescentis	0.001000000000000
+1679721	species	1239|186801|3085636|186803|1663717|1679721	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Herbinix|Herbinix luporum	0.001000000000000
+28118	species	976|200643|171549|1853231|283168|28118	Bacteroidota|Bacteroidia|Bacteroidales|Odoribacteraceae|Odoribacter|Odoribacter splanchnicus	0.001000000000000
+131111	species	201174|1760|2037|2049|2529408|131111	Actinomycetota|Actinomycetes|Actinomycetales|Actinomycetaceae|Schaalia|Schaalia turicensis	0.001000000000000
+2845457	species	2731618|2731619|1623305|2845457	Uroviricota|Caudoviricetes|Skunavirus|Skunavirus M1127	0.001000000000000
+3059990	species	2731618|2731619|2731690|2732017|3059990	Uroviricota|Caudoviricetes|Demerecviridae|Epseptimavirus|Epseptimavirus RN29	0.001000000000000
+2787628	species	203691|203692|3120456|2845253|157|2787628	Spirochaetota|Spirochaetia|Treponematales|Treponemataceae|Treponema|Treponema peruense	0.001000000000000
+53336	species	1224|1236|91347|1903409|82986|53336	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Erwiniaceae|Tatumella|Tatumella citrea	0.001000000000000
+133926	species	201174|84998|84999|1643824|133925|133926	Actinomycetota|Coriobacteriia|Coriobacteriales|Atopobiaceae|Olsenella|Olsenella uli	0.001000000000000
+2734150	species	2731618|2731619|2733138|2734150	Uroviricota|Caudoviricetes|Toutatisvirus|Toutatisvirus toutatis	0.001000000000000
+1796620	species	1239|186801|186802|3082771|1918385|1796620	Bacillota|Clostridia|Eubacteriales|Acutalibacteraceae|Acutalibacter|Acutalibacter muris	0.001000000000000
+2604421	species	976|1853228|1853229|563835|79328|2604421	Bacteroidota|Chitinophagia|Chitinophagales|Chitinophagaceae|Chitinophaga|Chitinophaga sp. XS-30	0.001000000000000
+1536771	species	1239|91061|1385|186822|44249|1536771	Bacillota|Bacilli|Caryophanales|Paenibacillaceae|Paenibacillus|Paenibacillus sp. FSL R5-0912	0.001000000000000
+684066	species	1239|91061|186826|1300|1301|684066	Bacillota|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus lactarius	0.001000000000000
+1624	species	1239|91061|186826|33958|2767887|1624	Bacillota|Bacilli|Lactobacillales|Lactobacillaceae|Ligilactobacillus|Ligilactobacillus salivarius	0.001000000000000
+1977411	species	2732410|2732411|2732094|10860|2732873|1977411	Hofneiviricota|Faserviricetes|Tubulavirales|Inoviridae|Infulavirus|Infulavirus If1	0.001000000000000
+1042156	species	1239|186801|186802|31979|1485|1042156	Bacillota|Clostridia|Eubacteriales|Clostridiaceae|Clostridium|Clostridium sp. SY8519	0.001000000000000
+617123	species	1239|186801|3085636|186803|1164882|617123	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Lachnoanaerobaculum|Lachnoanaerobaculum umeaense	0.001000000000000
+1852381	species	1224|28216|80840|995019|1980697|1852381	Pseudomonadota|Betaproteobacteria|Burkholderiales|Sutterellaceae|Duodenibacillus|Duodenibacillus massiliensis	0.001000000000000
+2005703	species	1239|91061|186826|81852|1350|2005703	Bacillota|Bacilli|Lactobacillales|Enterococcaceae|Enterococcus|Enterococcus wangshanyuanii	0.001000000000000
+1264	species	1239|186801|186802|216572|2981634|1264	Bacillota|Clostridia|Eubacteriales|Oscillospiraceae|Hominimerdicola|Hominimerdicola alba	0.001000000000000
+3428277	species	2731618|2731619|1623289|3428277	Uroviricota|Caudoviricetes|Dhillonvirus|Dhillonvirus PNS1	0.001000000000000
+313603	species	976|117743|200644|49546|252356|313603	Bacteroidota|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Maribacter|Maribacter sp. HTCC2170	0.001000000000000
+28129	species	976|200643|171549|171552|838|28129	Bacteroidota|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|Prevotella denticola	0.001000000000000
+1882682	species	1224|28211|356|119045|186650|1882682	Pseudomonadota|Alphaproteobacteria|Hyphomicrobiales|Methylobacteriaceae|Microvirga|Microvirga ossetica	0.001000000000000
+2844380	species	201174|84998|84999|84107|102106|2844380	Actinomycetota|Coriobacteriia|Coriobacteriales|Coriobacteriaceae|Collinsella|Collinsella sp. zg1085	0.001000000000000
+61645	species	1224|1236|91347|543|547|61645	Pseudomonadota|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Enterobacter|Enterobacter asburiae	0.001000000000000
+28131	species	976|200643|171549|171552|838|28131	Bacteroidota|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|Prevotella intermedia	0.001000000000000
+1046043	species	28890|183963|2235|3402413|63743|1046043	Methanobacteriota|Halobacteria|Halobacteriales|Natronomonadaceae|Natronomonas|Natronomonas gomsonensis	0.001000000000000
+40324	species	1224|1236|135614|32033|40323|40324	Pseudomonadota|Gammaproteobacteria|Lysobacterales|Lysobacteraceae|Stenotrophomonas|Stenotrophomonas maltophilia	0.001000000000000
+2490855	species	1239|186801|3085636|186803|1164882|2490855	Bacillota|Clostridia|Lachnospirales|Lachnospiraceae|Lachnoanaerobaculum|Lachnoanaerobaculum gingivalis	0.001000000000000

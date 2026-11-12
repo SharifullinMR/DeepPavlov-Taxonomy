@@ -1,0 +1,22 @@
+2026-11-12 17:00:39,609 INFO /home/mr_sharifullin/miniconda3/envs/cami_benchmark/bin/opal.py -g /home/mr_sharifullin/cami_benchmark/gold/taxonomic_profiles/taxonomic_profile_0.txt -o /home/mr_sharifullin/cami_benchmark/opal_results_v2 -p /home/mr_sharifullin/cami_benchmark/results/sample_0_bracken.cami /home/mr_sharifullin/cami_benchmark/results/sample_0_centrifuge.cami /home/mr_sharifullin/cami_benchmark/results/sample_0_motus.cami
+2026-11-12 17:00:39,609 INFO Loading profiles
+2026-11-12 17:00:39,622 INFO Computing metrics
+2026-11-12 17:00:40,508 INFO Plotting gold standard abundances...
+2026-11-12 17:00:47,409 INFO Saving computed metrics
+2026-11-12 17:00:47,592 INFO Creating beta diversity plots
+2026-11-12 17:00:47,592 INFO Creating rarefaction curves
+2026-11-12 17:00:48,169 INFO Creating more plots
+2026-11-12 17:00:50,491 INFO Computing rankings
+2026-11-12 17:00:50,532 INFO Creating HTML page
+2026-11-12 17:00:52,201 INFO OPAL finished successfully. All results have been saved to /home/mr_sharifullin/cami_benchmark/opal_results_v2
+2026-11-12 17:21:49,716 INFO /home/mr_sharifullin/miniconda3/envs/cami_benchmark/bin/opal.py -g /home/mr_sharifullin/cami_benchmark/gold/taxonomic_profiles/taxonomic_profile_0.txt -o /home/mr_sharifullin/cami_benchmark/opal_results_v2 -p /home/mr_sharifullin/cami_benchmark/results/sample_0_bracken.cami /home/mr_sharifullin/cami_benchmark/results/sample_0_centrifuge.cami /home/mr_sharifullin/cami_benchmark/results/sample_0_motus.cami
+2026-11-12 17:21:49,716 INFO Loading profiles
+2026-11-12 17:21:49,736 INFO Computing metrics
+2026-11-12 17:21:50,589 INFO Plotting gold standard abundances...
+2026-11-12 17:21:56,851 INFO Saving computed metrics
+2026-11-12 17:21:56,931 INFO Creating beta diversity plots
+2026-11-12 17:21:56,932 INFO Creating rarefaction curves
+2026-11-12 17:21:57,296 INFO Creating more plots
+2026-11-12 17:21:59,102 INFO Computing rankings
+2026-11-12 17:21:59,136 INFO Creating HTML page
+2026-11-12 17:22:00,750 INFO OPAL finished successfully. All results have been saved to /home/mr_sharifullin/cami_benchmark/opal_results_v2

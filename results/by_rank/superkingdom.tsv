@@ -1,0 +1,4 @@
+tool	sample	Sum of abundances	Weighted UniFrac error	Unweighted UniFrac error	Taxon counts	Shannon diversity	Shannon equitability
+sample_0_bracken.cami	sample_0	na	0.11703466505952387	0.5678785946235076	na	na	na
+sample_0_centrifuge.cami	sample_0	na	0.14915610140032026	0.8531175210599431	na	na	na
+sample_0_motus.cami	sample_0	1.0	0.13347920674806776	0.858822497749389	1.0	0.0	0.0

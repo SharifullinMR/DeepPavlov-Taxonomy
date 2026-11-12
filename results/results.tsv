@@ -1,0 +1,550 @@
+tool	rank	metric	sample	value
+Gold standard	acellular root	Bray-Curtis distance	sample_0	0.0
+Gold standard	cellular root	Bray-Curtis distance	sample_0	0.0
+Gold standard	other entries	Bray-Curtis distance	sample_0	0.0
+Gold standard	realm	Bray-Curtis distance	sample_0	0.0
+Gold standard	domain	Bray-Curtis distance	sample_0	0.0
+Gold standard	kingdom	Bray-Curtis distance	sample_0	0.0
+Gold standard	phylum	Bray-Curtis distance	sample_0	0.0
+Gold standard	class	Bray-Curtis distance	sample_0	0.0
+Gold standard	order	Bray-Curtis distance	sample_0	0.0
+Gold standard	family	Bray-Curtis distance	sample_0	0.0
+Gold standard	genus	Bray-Curtis distance	sample_0	0.0
+Gold standard	species	Bray-Curtis distance	sample_0	0.0
+Gold standard	strain	Bray-Curtis distance	sample_0	0.0
+Gold standard	acellular root	Shannon diversity	sample_0	0.3517511445154202
+Gold standard	acellular root	Shannon equitability	sample_0	0.0
+Gold standard	cellular root	Shannon diversity	sample_0	0.34761070378041936
+Gold standard	cellular root	Shannon equitability	sample_0	0.0
+Gold standard	other entries	Shannon diversity	sample_0	0.08213281387761993
+Gold standard	other entries	Shannon equitability	sample_0	0.0
+Gold standard	realm	Shannon diversity	sample_0	0.5865217394083264
+Gold standard	realm	Shannon equitability	sample_0	0.5338750944788625
+Gold standard	domain	Shannon diversity	sample_0	0.39629656377974487
+Gold standard	domain	Shannon equitability	sample_0	0.5717350872863748
+Gold standard	kingdom	Shannon diversity	sample_0	1.3375694005729433
+Gold standard	kingdom	Shannon equitability	sample_0	0.5808990098314695
+Gold standard	phylum	Shannon diversity	sample_0	1.4475158259013563
+Gold standard	phylum	Shannon equitability	sample_0	0.5008061063241809
+Gold standard	class	Shannon diversity	sample_0	1.6954426545033394
+Gold standard	class	Shannon equitability	sample_0	0.5203782744672498
+Gold standard	order	Shannon diversity	sample_0	1.7065494870201814
+Gold standard	order	Shannon equitability	sample_0	0.45372472469614794
+Gold standard	family	Shannon diversity	sample_0	2.592326439010098
+Gold standard	family	Shannon equitability	sample_0	0.6004246846407204
+Gold standard	genus	Shannon diversity	sample_0	3.47727367727534
+Gold standard	genus	Shannon equitability	sample_0	0.6868559808933107
+Gold standard	species	Shannon diversity	sample_0	4.232657106637071
+Gold standard	species	Shannon equitability	sample_0	0.7643853346270999
+Gold standard	strain	Shannon diversity	sample_0	4.332089648261114
+Gold standard	strain	Shannon equitability	sample_0	0.7547466806805656
+Gold standard	acellular root	True positives	sample_0	1.0
+Gold standard	acellular root	False negatives	sample_0	0.0
+Gold standard	acellular root	False positives	sample_0	0.0
+Gold standard	acellular root	Completeness	sample_0	1.0
+Gold standard	acellular root	Purity	sample_0	1.0
+Gold standard	acellular root	F1 score	sample_0	1.0
+Gold standard	acellular root	Jaccard index	sample_0	1.0
+Gold standard	cellular root	True positives	sample_0	1.0
+Gold standard	cellular root	False negatives	sample_0	0.0
+Gold standard	cellular root	False positives	sample_0	0.0
+Gold standard	cellular root	Completeness	sample_0	1.0
+Gold standard	cellular root	Purity	sample_0	1.0
+Gold standard	cellular root	F1 score	sample_0	1.0
+Gold standard	cellular root	Jaccard index	sample_0	1.0
+Gold standard	other entries	True positives	sample_0	1.0
+Gold standard	other entries	False negatives	sample_0	0.0
+Gold standard	other entries	False positives	sample_0	0.0
+Gold standard	other entries	Completeness	sample_0	1.0
+Gold standard	other entries	Purity	sample_0	1.0
+Gold standard	other entries	F1 score	sample_0	1.0
+Gold standard	other entries	Jaccard index	sample_0	1.0
+Gold standard	realm	True positives	sample_0	3.0
+Gold standard	realm	False negatives	sample_0	0.0
+Gold standard	realm	False positives	sample_0	0.0
+Gold standard	realm	Completeness	sample_0	1.0
+Gold standard	realm	Purity	sample_0	1.0
+Gold standard	realm	F1 score	sample_0	1.0
+Gold standard	realm	Jaccard index	sample_0	1.0
+Gold standard	domain	True positives	sample_0	2.0
+Gold standard	domain	False negatives	sample_0	0.0
+Gold standard	domain	False positives	sample_0	0.0
+Gold standard	domain	Completeness	sample_0	1.0
+Gold standard	domain	Purity	sample_0	1.0
+Gold standard	domain	F1 score	sample_0	1.0
+Gold standard	domain	Jaccard index	sample_0	1.0
+Gold standard	kingdom	True positives	sample_0	10.0
+Gold standard	kingdom	False negatives	sample_0	0.0
+Gold standard	kingdom	False positives	sample_0	0.0
+Gold standard	kingdom	Completeness	sample_0	1.0
+Gold standard	kingdom	Purity	sample_0	1.0
+Gold standard	kingdom	F1 score	sample_0	1.0
+Gold standard	kingdom	Jaccard index	sample_0	1.0
+Gold standard	phylum	True positives	sample_0	18.0
+Gold standard	phylum	False negatives	sample_0	0.0
+Gold standard	phylum	False positives	sample_0	0.0
+Gold standard	phylum	Completeness	sample_0	1.0
+Gold standard	phylum	Purity	sample_0	1.0
+Gold standard	phylum	F1 score	sample_0	1.0
+Gold standard	phylum	Jaccard index	sample_0	1.0
+Gold standard	class	True positives	sample_0	26.0
+Gold standard	class	False negatives	sample_0	0.0
+Gold standard	class	False positives	sample_0	0.0
+Gold standard	class	Completeness	sample_0	1.0
+Gold standard	class	Purity	sample_0	1.0
+Gold standard	class	F1 score	sample_0	1.0
+Gold standard	class	Jaccard index	sample_0	1.0
+Gold standard	order	True positives	sample_0	43.0
+Gold standard	order	False negatives	sample_0	0.0
+Gold standard	order	False positives	sample_0	0.0
+Gold standard	order	Completeness	sample_0	1.0
+Gold standard	order	Purity	sample_0	1.0
+Gold standard	order	F1 score	sample_0	1.0
+Gold standard	order	Jaccard index	sample_0	1.0
+Gold standard	family	True positives	sample_0	75.0
+Gold standard	family	False negatives	sample_0	0.0
+Gold standard	family	False positives	sample_0	0.0
+Gold standard	family	Completeness	sample_0	1.0
+Gold standard	family	Purity	sample_0	1.0
+Gold standard	family	F1 score	sample_0	1.0
+Gold standard	family	Jaccard index	sample_0	1.0
+Gold standard	genus	True positives	sample_0	158.0
+Gold standard	genus	False negatives	sample_0	0.0
+Gold standard	genus	False positives	sample_0	0.0
+Gold standard	genus	Completeness	sample_0	1.0
+Gold standard	genus	Purity	sample_0	1.0
+Gold standard	genus	F1 score	sample_0	1.0
+Gold standard	genus	Jaccard index	sample_0	1.0
+Gold standard	species	True positives	sample_0	254.0
+Gold standard	species	False negatives	sample_0	0.0
+Gold standard	species	False positives	sample_0	0.0
+Gold standard	species	Completeness	sample_0	1.0
+Gold standard	species	Purity	sample_0	1.0
+Gold standard	species	F1 score	sample_0	1.0
+Gold standard	species	Jaccard index	sample_0	1.0
+Gold standard	strain	True positives	sample_0	311.0
+Gold standard	strain	False negatives	sample_0	0.0
+Gold standard	strain	False positives	sample_0	0.0
+Gold standard	strain	Completeness	sample_0	1.0
+Gold standard	strain	Purity	sample_0	1.0
+Gold standard	strain	F1 score	sample_0	1.0
+Gold standard	strain	Jaccard index	sample_0	1.0
+Gold standard	acellular root	L1 norm error	sample_0	0.0
+Gold standard	cellular root	L1 norm error	sample_0	0.0
+Gold standard	other entries	L1 norm error	sample_0	0.0
+Gold standard	realm	L1 norm error	sample_0	0.0
+Gold standard	domain	L1 norm error	sample_0	0.0
+Gold standard	kingdom	L1 norm error	sample_0	0.0
+Gold standard	phylum	L1 norm error	sample_0	0.0
+Gold standard	class	L1 norm error	sample_0	0.0
+Gold standard	order	L1 norm error	sample_0	0.0
+Gold standard	family	L1 norm error	sample_0	0.0
+Gold standard	genus	L1 norm error	sample_0	0.0
+Gold standard	species	L1 norm error	sample_0	0.0
+Gold standard	strain	L1 norm error	sample_0	0.0
+Gold standard	na	Weighted UniFrac error	sample_0	0.0
+Gold standard	na	Unweighted UniFrac error	sample_0	0.0
+Gold standard	na	Weighted UniFrac (CAMI)	sample_0	0.0
+Gold standard	na	Unweighted UniFrac (CAMI)	sample_0	0.0
+Gold standard	acellular root	Sum of abundances	sample_0	0.482066
+Gold standard	cellular root	Sum of abundances	sample_0	0.496582
+Gold standard	other entries	Sum of abundances	sample_0	0.021352000000000003
+Gold standard	realm	Sum of abundances	sample_0	0.48198399999999997
+Gold standard	domain	Sum of abundances	sample_0	0.496582
+Gold standard	kingdom	Sum of abundances	sample_0	0.9785669999999999
+Gold standard	phylum	Sum of abundances	sample_0	0.9785670000000001
+Gold standard	class	Sum of abundances	sample_0	0.9785670000000001
+Gold standard	order	Sum of abundances	sample_0	0.600542
+Gold standard	family	Sum of abundances	sample_0	0.770177
+Gold standard	genus	Sum of abundances	sample_0	0.933035
+Gold standard	species	Sum of abundances	sample_0	0.9999899999999999
+Gold standard	strain	Sum of abundances	sample_0	0.999988
+Gold standard	acellular root	Taxon counts	sample_0	1.0
+Gold standard	cellular root	Taxon counts	sample_0	1.0
+Gold standard	other entries	Taxon counts	sample_0	1.0
+Gold standard	realm	Taxon counts	sample_0	3.0
+Gold standard	domain	Taxon counts	sample_0	2.0
+Gold standard	kingdom	Taxon counts	sample_0	10.0
+Gold standard	phylum	Taxon counts	sample_0	18.0
+Gold standard	class	Taxon counts	sample_0	26.0
+Gold standard	order	Taxon counts	sample_0	43.0
+Gold standard	family	Taxon counts	sample_0	75.0
+Gold standard	genus	Taxon counts	sample_0	158.0
+Gold standard	species	Taxon counts	sample_0	254.0
+Gold standard	strain	Taxon counts	sample_0	311.0
+sample_0_bracken.cami	phylum	Bray-Curtis distance	sample_0	0.4874055663943515
+sample_0_bracken.cami	class	Bray-Curtis distance	sample_0	0.4901259727791215
+sample_0_bracken.cami	order	Bray-Curtis distance	sample_0	0.38736887680306265
+sample_0_bracken.cami	family	Bray-Curtis distance	sample_0	0.46447829691764686
+sample_0_bracken.cami	genus	Bray-Curtis distance	sample_0	0.5720265314731281
+sample_0_bracken.cami	species	Bray-Curtis distance	sample_0	0.6672731819545863
+sample_0_bracken.cami	phylum	Shannon diversity	sample_0	1.0340496704326154
+sample_0_bracken.cami	phylum	Shannon equitability	sample_0	0.3451742599167145
+sample_0_bracken.cami	class	Shannon diversity	sample_0	1.36179352088556
+sample_0_bracken.cami	class	Shannon equitability	sample_0	0.39656336491496397
+sample_0_bracken.cami	order	Shannon diversity	sample_0	1.613975113482711
+sample_0_bracken.cami	order	Shannon equitability	sample_0	0.40095257196966827
+sample_0_bracken.cami	family	Shannon diversity	sample_0	2.1067652966213286
+sample_0_bracken.cami	family	Shannon equitability	sample_0	0.454560623063759
+sample_0_bracken.cami	genus	Shannon diversity	sample_0	2.4669568363740084
+sample_0_bracken.cami	genus	Shannon equitability	sample_0	0.4494415785805158
+sample_0_bracken.cami	species	Shannon diversity	sample_0	3.086187092452608
+sample_0_bracken.cami	species	Shannon equitability	sample_0	0.48770826857626237
+sample_0_bracken.cami	acellular root	True positives	sample_0	0.0
+sample_0_bracken.cami	acellular root	False negatives	sample_0	1.0
+sample_0_bracken.cami	acellular root	False positives	sample_0	0.0
+sample_0_bracken.cami	acellular root	Completeness	sample_0	0.0
+sample_0_bracken.cami	acellular root	Purity	sample_0	0.0
+sample_0_bracken.cami	acellular root	Jaccard index	sample_0	0.0
+sample_0_bracken.cami	cellular root	True positives	sample_0	0.0
+sample_0_bracken.cami	cellular root	False negatives	sample_0	1.0
+sample_0_bracken.cami	cellular root	False positives	sample_0	0.0
+sample_0_bracken.cami	cellular root	Completeness	sample_0	0.0
+sample_0_bracken.cami	cellular root	Purity	sample_0	0.0
+sample_0_bracken.cami	cellular root	Jaccard index	sample_0	0.0
+sample_0_bracken.cami	other entries	True positives	sample_0	0.0
+sample_0_bracken.cami	other entries	False negatives	sample_0	1.0
+sample_0_bracken.cami	other entries	False positives	sample_0	0.0
+sample_0_bracken.cami	other entries	Completeness	sample_0	0.0
+sample_0_bracken.cami	other entries	Purity	sample_0	0.0
+sample_0_bracken.cami	other entries	Jaccard index	sample_0	0.0
+sample_0_bracken.cami	realm	True positives	sample_0	0.0
+sample_0_bracken.cami	realm	False negatives	sample_0	3.0
+sample_0_bracken.cami	realm	False positives	sample_0	0.0
+sample_0_bracken.cami	realm	Completeness	sample_0	0.0
+sample_0_bracken.cami	realm	Purity	sample_0	0.0
+sample_0_bracken.cami	realm	Jaccard index	sample_0	0.0
+sample_0_bracken.cami	domain	True positives	sample_0	0.0
+sample_0_bracken.cami	domain	False negatives	sample_0	2.0
+sample_0_bracken.cami	domain	False positives	sample_0	0.0
+sample_0_bracken.cami	domain	Completeness	sample_0	0.0
+sample_0_bracken.cami	domain	Purity	sample_0	0.0
+sample_0_bracken.cami	domain	Jaccard index	sample_0	0.0
+sample_0_bracken.cami	kingdom	True positives	sample_0	0.0
+sample_0_bracken.cami	kingdom	False negatives	sample_0	10.0
+sample_0_bracken.cami	kingdom	False positives	sample_0	0.0
+sample_0_bracken.cami	kingdom	Completeness	sample_0	0.0
+sample_0_bracken.cami	kingdom	Purity	sample_0	0.0
+sample_0_bracken.cami	kingdom	Jaccard index	sample_0	0.0
+sample_0_bracken.cami	phylum	True positives	sample_0	15.0
+sample_0_bracken.cami	phylum	False negatives	sample_0	3.0
+sample_0_bracken.cami	phylum	False positives	sample_0	5.0
+sample_0_bracken.cami	phylum	Completeness	sample_0	0.8333333333333334
+sample_0_bracken.cami	phylum	Purity	sample_0	0.75
+sample_0_bracken.cami	phylum	F1 score	sample_0	0.7894736842105262
+sample_0_bracken.cami	phylum	Jaccard index	sample_0	0.6521739130434783
+sample_0_bracken.cami	class	True positives	sample_0	21.0
+sample_0_bracken.cami	class	False negatives	sample_0	5.0
+sample_0_bracken.cami	class	False positives	sample_0	10.0
+sample_0_bracken.cami	class	Completeness	sample_0	0.8076923076923077
+sample_0_bracken.cami	class	Purity	sample_0	0.6774193548387096
+sample_0_bracken.cami	class	F1 score	sample_0	0.7368421052631579
+sample_0_bracken.cami	class	Jaccard index	sample_0	0.5833333333333334
+sample_0_bracken.cami	order	True positives	sample_0	36.0
+sample_0_bracken.cami	order	False negatives	sample_0	7.0
+sample_0_bracken.cami	order	False positives	sample_0	20.0
+sample_0_bracken.cami	order	Completeness	sample_0	0.8372093023255814
+sample_0_bracken.cami	order	Purity	sample_0	0.6428571428571429
+sample_0_bracken.cami	order	F1 score	sample_0	0.7272727272727273
+sample_0_bracken.cami	order	Jaccard index	sample_0	0.5714285714285714
+sample_0_bracken.cami	family	True positives	sample_0	63.0
+sample_0_bracken.cami	family	False negatives	sample_0	12.0
+sample_0_bracken.cami	family	False positives	sample_0	40.0
+sample_0_bracken.cami	family	Completeness	sample_0	0.84
+sample_0_bracken.cami	family	Purity	sample_0	0.6116504854368932
+sample_0_bracken.cami	family	F1 score	sample_0	0.7078651685393258
+sample_0_bracken.cami	family	Jaccard index	sample_0	0.5478260869565217
+sample_0_bracken.cami	genus	True positives	sample_0	128.0
+sample_0_bracken.cami	genus	False negatives	sample_0	30.0
+sample_0_bracken.cami	genus	False positives	sample_0	114.0
+sample_0_bracken.cami	genus	Completeness	sample_0	0.810126582278481
+sample_0_bracken.cami	genus	Purity	sample_0	0.5289256198347108
+sample_0_bracken.cami	genus	F1 score	sample_0	0.64
+sample_0_bracken.cami	genus	Jaccard index	sample_0	0.47058823529411764
+sample_0_bracken.cami	species	True positives	sample_0	171.0
+sample_0_bracken.cami	species	False negatives	sample_0	83.0
+sample_0_bracken.cami	species	False positives	sample_0	389.0
+sample_0_bracken.cami	species	Completeness	sample_0	0.6732283464566929
+sample_0_bracken.cami	species	Purity	sample_0	0.3053571428571429
+sample_0_bracken.cami	species	F1 score	sample_0	0.4201474201474202
+sample_0_bracken.cami	species	Jaccard index	sample_0	0.26594090202177295
+sample_0_bracken.cami	strain	True positives	sample_0	0.0
+sample_0_bracken.cami	strain	False negatives	sample_0	311.0
+sample_0_bracken.cami	strain	False positives	sample_0	0.0
+sample_0_bracken.cami	strain	Completeness	sample_0	0.0
+sample_0_bracken.cami	strain	Purity	sample_0	0.0
+sample_0_bracken.cami	strain	Jaccard index	sample_0	0.0
+sample_0_bracken.cami	phylum	L1 norm error	sample_0	0.9640770000000005
+sample_0_bracken.cami	class	L1 norm error	sample_0	0.9694530000000003
+sample_0_bracken.cami	order	L1 norm error	sample_0	0.6119699999999999
+sample_0_bracken.cami	family	L1 norm error	sample_0	0.8173550000000003
+sample_0_bracken.cami	genus	L1 norm error	sample_0	1.1051810000000004
+sample_0_bracken.cami	species	L1 norm error	sample_0	1.334146000000002
+sample_0_bracken.cami	na	Weighted UniFrac error	sample_0	0.11703466505952387
+sample_0_bracken.cami	na	Unweighted UniFrac error	sample_0	0.5678785946235076
+sample_0_bracken.cami	na	Weighted UniFrac (CAMI)	sample_0	9.3494255249996
+sample_0_bracken.cami	na	Unweighted UniFrac (CAMI)	sample_0	2364.999927999998
+sample_0_bracken.cami	phylum	Sum of abundances	sample_0	0.9994100000000005
+sample_0_bracken.cami	class	Sum of abundances	sample_0	0.9994000000000004
+sample_0_bracken.cami	order	Sum of abundances	sample_0	0.9792700000000001
+sample_0_bracken.cami	family	Sum of abundances	sample_0	0.9895500000000002
+sample_0_bracken.cami	genus	Sum of abundances	sample_0	0.99901
+sample_0_bracken.cami	species	Sum of abundances	sample_0	0.99941
+sample_0_bracken.cami	phylum	Taxon counts	sample_0	20.0
+sample_0_bracken.cami	class	Taxon counts	sample_0	31.0
+sample_0_bracken.cami	order	Taxon counts	sample_0	56.0
+sample_0_bracken.cami	family	Taxon counts	sample_0	103.0
+sample_0_bracken.cami	genus	Taxon counts	sample_0	242.0
+sample_0_bracken.cami	species	Taxon counts	sample_0	560.0
+sample_0_centrifuge.cami	phylum	Bray-Curtis distance	sample_0	0.5080784145772225
+sample_0_centrifuge.cami	class	Bray-Curtis distance	sample_0	0.6235520147490656
+sample_0_centrifuge.cami	order	Bray-Curtis distance	sample_0	0.5736274156068364
+sample_0_centrifuge.cami	family	Bray-Curtis distance	sample_0	0.7844757383113558
+sample_0_centrifuge.cami	genus	Bray-Curtis distance	sample_0	0.8823952254108867
+sample_0_centrifuge.cami	species	Bray-Curtis distance	sample_0	0.9174617027864763
+sample_0_centrifuge.cami	phylum	Shannon diversity	sample_0	1.1105220534698825
+sample_0_centrifuge.cami	phylum	Shannon equitability	sample_0	0.5054203675512365
+sample_0_centrifuge.cami	class	Shannon diversity	sample_0	1.5150644272694576
+sample_0_centrifuge.cami	class	Shannon equitability	sample_0	0.546443983962231
+sample_0_centrifuge.cami	order	Shannon diversity	sample_0	1.6249114145284838
+sample_0_centrifuge.cami	order	Shannon equitability	sample_0	0.4930193697658425
+sample_0_centrifuge.cami	family	Shannon diversity	sample_0	1.9224708523203098
+sample_0_centrifuge.cami	family	Shannon equitability	sample_0	0.5211530699861496
+sample_0_centrifuge.cami	genus	Shannon diversity	sample_0	2.2837394113931486
+sample_0_centrifuge.cami	genus	Shannon equitability	sample_0	0.5289509435435629
+sample_0_centrifuge.cami	species	Shannon diversity	sample_0	2.765744819504668
+sample_0_centrifuge.cami	species	Shannon equitability	sample_0	0.5391421884137808
+sample_0_centrifuge.cami	acellular root	True positives	sample_0	0.0
+sample_0_centrifuge.cami	acellular root	False negatives	sample_0	1.0
+sample_0_centrifuge.cami	acellular root	False positives	sample_0	0.0
+sample_0_centrifuge.cami	acellular root	Completeness	sample_0	0.0
+sample_0_centrifuge.cami	acellular root	Purity	sample_0	0.0
+sample_0_centrifuge.cami	acellular root	Jaccard index	sample_0	0.0
+sample_0_centrifuge.cami	cellular root	True positives	sample_0	0.0
+sample_0_centrifuge.cami	cellular root	False negatives	sample_0	1.0
+sample_0_centrifuge.cami	cellular root	False positives	sample_0	0.0
+sample_0_centrifuge.cami	cellular root	Completeness	sample_0	0.0
+sample_0_centrifuge.cami	cellular root	Purity	sample_0	0.0
+sample_0_centrifuge.cami	cellular root	Jaccard index	sample_0	0.0
+sample_0_centrifuge.cami	other entries	True positives	sample_0	0.0
+sample_0_centrifuge.cami	other entries	False negatives	sample_0	1.0
+sample_0_centrifuge.cami	other entries	False positives	sample_0	0.0
+sample_0_centrifuge.cami	other entries	Completeness	sample_0	0.0
+sample_0_centrifuge.cami	other entries	Purity	sample_0	0.0
+sample_0_centrifuge.cami	other entries	Jaccard index	sample_0	0.0
+sample_0_centrifuge.cami	realm	True positives	sample_0	0.0
+sample_0_centrifuge.cami	realm	False negatives	sample_0	3.0
+sample_0_centrifuge.cami	realm	False positives	sample_0	0.0
+sample_0_centrifuge.cami	realm	Completeness	sample_0	0.0
+sample_0_centrifuge.cami	realm	Purity	sample_0	0.0
+sample_0_centrifuge.cami	realm	Jaccard index	sample_0	0.0
+sample_0_centrifuge.cami	domain	True positives	sample_0	0.0
+sample_0_centrifuge.cami	domain	False negatives	sample_0	2.0
+sample_0_centrifuge.cami	domain	False positives	sample_0	0.0
+sample_0_centrifuge.cami	domain	Completeness	sample_0	0.0
+sample_0_centrifuge.cami	domain	Purity	sample_0	0.0
+sample_0_centrifuge.cami	domain	Jaccard index	sample_0	0.0
+sample_0_centrifuge.cami	kingdom	True positives	sample_0	0.0
+sample_0_centrifuge.cami	kingdom	False negatives	sample_0	10.0
+sample_0_centrifuge.cami	kingdom	False positives	sample_0	0.0
+sample_0_centrifuge.cami	kingdom	Completeness	sample_0	0.0
+sample_0_centrifuge.cami	kingdom	Purity	sample_0	0.0
+sample_0_centrifuge.cami	kingdom	Jaccard index	sample_0	0.0
+sample_0_centrifuge.cami	phylum	True positives	sample_0	7.0
+sample_0_centrifuge.cami	phylum	False negatives	sample_0	11.0
+sample_0_centrifuge.cami	phylum	False positives	sample_0	2.0
+sample_0_centrifuge.cami	phylum	Completeness	sample_0	0.3888888888888889
+sample_0_centrifuge.cami	phylum	Purity	sample_0	0.7777777777777778
+sample_0_centrifuge.cami	phylum	F1 score	sample_0	0.5185185185185185
+sample_0_centrifuge.cami	phylum	Jaccard index	sample_0	0.35
+sample_0_centrifuge.cami	class	True positives	sample_0	12.0
+sample_0_centrifuge.cami	class	False negatives	sample_0	14.0
+sample_0_centrifuge.cami	class	False positives	sample_0	4.0
+sample_0_centrifuge.cami	class	Completeness	sample_0	0.46153846153846156
+sample_0_centrifuge.cami	class	Purity	sample_0	0.75
+sample_0_centrifuge.cami	class	F1 score	sample_0	0.5714285714285714
+sample_0_centrifuge.cami	class	Jaccard index	sample_0	0.4
+sample_0_centrifuge.cami	order	True positives	sample_0	21.0
+sample_0_centrifuge.cami	order	False negatives	sample_0	22.0
+sample_0_centrifuge.cami	order	False positives	sample_0	6.0
+sample_0_centrifuge.cami	order	Completeness	sample_0	0.4883720930232558
+sample_0_centrifuge.cami	order	Purity	sample_0	0.7777777777777778
+sample_0_centrifuge.cami	order	F1 score	sample_0	0.6000000000000001
+sample_0_centrifuge.cami	order	Jaccard index	sample_0	0.42857142857142855
+sample_0_centrifuge.cami	family	True positives	sample_0	28.0
+sample_0_centrifuge.cami	family	False negatives	sample_0	47.0
+sample_0_centrifuge.cami	family	False positives	sample_0	12.0
+sample_0_centrifuge.cami	family	Completeness	sample_0	0.37333333333333335
+sample_0_centrifuge.cami	family	Purity	sample_0	0.7
+sample_0_centrifuge.cami	family	F1 score	sample_0	0.4869565217391304
+sample_0_centrifuge.cami	family	Jaccard index	sample_0	0.3218390804597701
+sample_0_centrifuge.cami	genus	True positives	sample_0	43.0
+sample_0_centrifuge.cami	genus	False negatives	sample_0	115.0
+sample_0_centrifuge.cami	genus	False positives	sample_0	32.0
+sample_0_centrifuge.cami	genus	Completeness	sample_0	0.2721518987341772
+sample_0_centrifuge.cami	genus	Purity	sample_0	0.5733333333333334
+sample_0_centrifuge.cami	genus	F1 score	sample_0	0.36909871244635195
+sample_0_centrifuge.cami	genus	Jaccard index	sample_0	0.22631578947368422
+sample_0_centrifuge.cami	species	True positives	sample_0	48.0
+sample_0_centrifuge.cami	species	False negatives	sample_0	206.0
+sample_0_centrifuge.cami	species	False positives	sample_0	121.0
+sample_0_centrifuge.cami	species	Completeness	sample_0	0.1889763779527559
+sample_0_centrifuge.cami	species	Purity	sample_0	0.28402366863905326
+sample_0_centrifuge.cami	species	F1 score	sample_0	0.2269503546099291
+sample_0_centrifuge.cami	species	Jaccard index	sample_0	0.128
+sample_0_centrifuge.cami	strain	True positives	sample_0	0.0
+sample_0_centrifuge.cami	strain	False negatives	sample_0	311.0
+sample_0_centrifuge.cami	strain	False positives	sample_0	0.0
+sample_0_centrifuge.cami	strain	Completeness	sample_0	0.0
+sample_0_centrifuge.cami	strain	Purity	sample_0	0.0
+sample_0_centrifuge.cami	strain	Jaccard index	sample_0	0.0
+sample_0_centrifuge.cami	phylum	L1 norm error	sample_0	1.005267375049229
+sample_0_centrifuge.cami	class	L1 norm error	sample_0	1.2337396730287167
+sample_0_centrifuge.cami	order	L1 norm error	sample_0	0.9181149861687175
+sample_0_centrifuge.cami	family	L1 norm error	sample_0	1.386068316368635
+sample_0_centrifuge.cami	genus	L1 norm error	sample_0	1.7056423049986367
+sample_0_centrifuge.cami	species	L1 norm error	sample_0	1.8349145750492288
+sample_0_centrifuge.cami	na	Weighted UniFrac error	sample_0	0.14915610140032026
+sample_0_centrifuge.cami	na	Unweighted UniFrac error	sample_0	0.8531175210599431
+sample_0_centrifuge.cami	na	Weighted UniFrac (CAMI)	sample_0	12.23802900138063
+sample_0_centrifuge.cami	na	Unweighted UniFrac (CAMI)	sample_0	3176.9999259999995
+sample_0_centrifuge.cami	phylum	Sum of abundances	sample_0	1.0000003750492288
+sample_0_centrifuge.cami	class	Sum of abundances	sample_0	1.0000003750492286
+sample_0_centrifuge.cami	order	Sum of abundances	sample_0	1.0000003750492286
+sample_0_centrifuge.cami	family	Sum of abundances	sample_0	0.9966951270491465
+sample_0_centrifuge.cami	genus	Sum of abundances	sample_0	0.9999336470191466
+sample_0_centrifuge.cami	species	Sum of abundances	sample_0	1.0000003750492288
+sample_0_centrifuge.cami	phylum	Taxon counts	sample_0	9.0
+sample_0_centrifuge.cami	class	Taxon counts	sample_0	16.0
+sample_0_centrifuge.cami	order	Taxon counts	sample_0	27.0
+sample_0_centrifuge.cami	family	Taxon counts	sample_0	40.0
+sample_0_centrifuge.cami	genus	Taxon counts	sample_0	75.0
+sample_0_centrifuge.cami	species	Taxon counts	sample_0	169.0
+sample_0_motus.cami	phylum	Bray-Curtis distance	sample_0	0.5099564482779709
+sample_0_motus.cami	class	Bray-Curtis distance	sample_0	0.5160682468481971
+sample_0_motus.cami	order	Bray-Curtis distance	sample_0	0.516827801433325
+sample_0_motus.cami	family	Bray-Curtis distance	sample_0	0.578140603222755
+sample_0_motus.cami	genus	Bray-Curtis distance	sample_0	0.571336129306392
+sample_0_motus.cami	species	Bray-Curtis distance	sample_0	0.6921731218117744
+sample_0_motus.cami	superkingdom	Shannon diversity	sample_0	0.0
+sample_0_motus.cami	superkingdom	Shannon equitability	sample_0	0.0
+sample_0_motus.cami	phylum	Shannon diversity	sample_0	0.8077170260020381
+sample_0_motus.cami	phylum	Shannon equitability	sample_0	0.5826446739273612
+sample_0_motus.cami	class	Shannon diversity	sample_0	1.2058984694653083
+sample_0_motus.cami	class	Shannon equitability	sample_0	0.5237150510243603
+sample_0_motus.cami	order	Shannon diversity	sample_0	1.2153389690670464
+sample_0_motus.cami	order	Shannon equitability	sample_0	0.47382571727257633
+sample_0_motus.cami	family	Shannon diversity	sample_0	2.0837017565886597
+sample_0_motus.cami	family	Shannon equitability	sample_0	0.6395457385231478
+sample_0_motus.cami	genus	Shannon diversity	sample_0	2.3962188980636077
+sample_0_motus.cami	genus	Shannon equitability	sample_0	0.6410997072459657
+sample_0_motus.cami	species	Shannon diversity	sample_0	2.190731035894172
+sample_0_motus.cami	species	Shannon equitability	sample_0	0.5517808472511482
+sample_0_motus.cami	acellular root	True positives	sample_0	0.0
+sample_0_motus.cami	acellular root	False negatives	sample_0	1.0
+sample_0_motus.cami	acellular root	False positives	sample_0	0.0
+sample_0_motus.cami	acellular root	Completeness	sample_0	0.0
+sample_0_motus.cami	acellular root	Purity	sample_0	0.0
+sample_0_motus.cami	acellular root	Jaccard index	sample_0	0.0
+sample_0_motus.cami	cellular root	True positives	sample_0	0.0
+sample_0_motus.cami	cellular root	False negatives	sample_0	1.0
+sample_0_motus.cami	cellular root	False positives	sample_0	0.0
+sample_0_motus.cami	cellular root	Completeness	sample_0	0.0
+sample_0_motus.cami	cellular root	Purity	sample_0	0.0
+sample_0_motus.cami	cellular root	Jaccard index	sample_0	0.0
+sample_0_motus.cami	other entries	True positives	sample_0	0.0
+sample_0_motus.cami	other entries	False negatives	sample_0	1.0
+sample_0_motus.cami	other entries	False positives	sample_0	0.0
+sample_0_motus.cami	other entries	Completeness	sample_0	0.0
+sample_0_motus.cami	other entries	Purity	sample_0	0.0
+sample_0_motus.cami	other entries	Jaccard index	sample_0	0.0
+sample_0_motus.cami	realm	True positives	sample_0	0.0
+sample_0_motus.cami	realm	False negatives	sample_0	3.0
+sample_0_motus.cami	realm	False positives	sample_0	0.0
+sample_0_motus.cami	realm	Completeness	sample_0	0.0
+sample_0_motus.cami	realm	Purity	sample_0	0.0
+sample_0_motus.cami	realm	Jaccard index	sample_0	0.0
+sample_0_motus.cami	domain	True positives	sample_0	0.0
+sample_0_motus.cami	domain	False negatives	sample_0	2.0
+sample_0_motus.cami	domain	False positives	sample_0	0.0
+sample_0_motus.cami	domain	Completeness	sample_0	0.0
+sample_0_motus.cami	domain	Purity	sample_0	0.0
+sample_0_motus.cami	domain	Jaccard index	sample_0	0.0
+sample_0_motus.cami	kingdom	True positives	sample_0	0.0
+sample_0_motus.cami	kingdom	False negatives	sample_0	10.0
+sample_0_motus.cami	kingdom	False positives	sample_0	0.0
+sample_0_motus.cami	kingdom	Completeness	sample_0	0.0
+sample_0_motus.cami	kingdom	Purity	sample_0	0.0
+sample_0_motus.cami	kingdom	Jaccard index	sample_0	0.0
+sample_0_motus.cami	phylum	True positives	sample_0	4.0
+sample_0_motus.cami	phylum	False negatives	sample_0	14.0
+sample_0_motus.cami	phylum	False positives	sample_0	0.0
+sample_0_motus.cami	phylum	Completeness	sample_0	0.2222222222222222
+sample_0_motus.cami	phylum	Purity	sample_0	1.0
+sample_0_motus.cami	phylum	F1 score	sample_0	0.3636363636363636
+sample_0_motus.cami	phylum	Jaccard index	sample_0	0.2222222222222222
+sample_0_motus.cami	class	True positives	sample_0	9.0
+sample_0_motus.cami	class	False negatives	sample_0	17.0
+sample_0_motus.cami	class	False positives	sample_0	1.0
+sample_0_motus.cami	class	Completeness	sample_0	0.34615384615384615
+sample_0_motus.cami	class	Purity	sample_0	0.9
+sample_0_motus.cami	class	F1 score	sample_0	0.5
+sample_0_motus.cami	class	Jaccard index	sample_0	0.3333333333333333
+sample_0_motus.cami	order	True positives	sample_0	13.0
+sample_0_motus.cami	order	False negatives	sample_0	30.0
+sample_0_motus.cami	order	False positives	sample_0	0.0
+sample_0_motus.cami	order	Completeness	sample_0	0.3023255813953488
+sample_0_motus.cami	order	Purity	sample_0	1.0
+sample_0_motus.cami	order	F1 score	sample_0	0.46428571428571425
+sample_0_motus.cami	order	Jaccard index	sample_0	0.3023255813953488
+sample_0_motus.cami	family	True positives	sample_0	24.0
+sample_0_motus.cami	family	False negatives	sample_0	51.0
+sample_0_motus.cami	family	False positives	sample_0	2.0
+sample_0_motus.cami	family	Completeness	sample_0	0.32
+sample_0_motus.cami	family	Purity	sample_0	0.9230769230769231
+sample_0_motus.cami	family	F1 score	sample_0	0.4752475247524752
+sample_0_motus.cami	family	Jaccard index	sample_0	0.3116883116883117
+sample_0_motus.cami	genus	True positives	sample_0	40.0
+sample_0_motus.cami	genus	False negatives	sample_0	118.0
+sample_0_motus.cami	genus	False positives	sample_0	2.0
+sample_0_motus.cami	genus	Completeness	sample_0	0.25316455696202533
+sample_0_motus.cami	genus	Purity	sample_0	0.9523809523809523
+sample_0_motus.cami	genus	F1 score	sample_0	0.4
+sample_0_motus.cami	genus	Jaccard index	sample_0	0.25
+sample_0_motus.cami	species	True positives	sample_0	45.0
+sample_0_motus.cami	species	False negatives	sample_0	209.0
+sample_0_motus.cami	species	False positives	sample_0	8.0
+sample_0_motus.cami	species	Completeness	sample_0	0.17716535433070865
+sample_0_motus.cami	species	Purity	sample_0	0.8490566037735849
+sample_0_motus.cami	species	F1 score	sample_0	0.2931596091205212
+sample_0_motus.cami	species	Jaccard index	sample_0	0.1717557251908397
+sample_0_motus.cami	strain	True positives	sample_0	0.0
+sample_0_motus.cami	strain	False negatives	sample_0	311.0
+sample_0_motus.cami	strain	False positives	sample_0	0.0
+sample_0_motus.cami	strain	Completeness	sample_0	0.0
+sample_0_motus.cami	strain	Purity	sample_0	0.0
+sample_0_motus.cami	strain	Jaccard index	sample_0	0.0
+sample_0_motus.cami	phylum	L1 norm error	sample_0	1.008983
+sample_0_motus.cami	class	L1 norm error	sample_0	1.0210756029616965
+sample_0_motus.cami	order	L1 norm error	sample_0	0.8272046029616972
+sample_0_motus.cami	family	L1 norm error	sample_0	1.0234111985910466
+sample_0_motus.cami	genus	L1 norm error	sample_0	1.1044127347137815
+sample_0_motus.cami	species	L1 norm error	sample_0	1.3843393218923317
+sample_0_motus.cami	na	Weighted UniFrac error	sample_0	0.13347920674806776
+sample_0_motus.cami	na	Unweighted UniFrac error	sample_0	0.858822497749389
+sample_0_motus.cami	na	Weighted UniFrac (CAMI)	sample_0	10.10169575175654
+sample_0_motus.cami	na	Unweighted UniFrac (CAMI)	sample_0	3107.413634432828
+sample_0_motus.cami	superkingdom	Sum of abundances	sample_0	1.0
+sample_0_motus.cami	phylum	Sum of abundances	sample_0	1.0
+sample_0_motus.cami	class	Sum of abundances	sample_0	0.9999999999999999
+sample_0_motus.cami	order	Sum of abundances	sample_0	1.0000000000000002
+sample_0_motus.cami	family	Sum of abundances	sample_0	1.0000000000000002
+sample_0_motus.cami	genus	Sum of abundances	sample_0	1.0000000000000002
+sample_0_motus.cami	species	Sum of abundances	sample_0	1.0000000000000002
+sample_0_motus.cami	superkingdom	Taxon counts	sample_0	1.0
+sample_0_motus.cami	phylum	Taxon counts	sample_0	4.0
+sample_0_motus.cami	class	Taxon counts	sample_0	10.0
+sample_0_motus.cami	order	Taxon counts	sample_0	13.0
+sample_0_motus.cami	family	Taxon counts	sample_0	26.0
+sample_0_motus.cami	genus	Taxon counts	sample_0	42.0
+sample_0_motus.cami	species	Taxon counts	sample_0	53.0
